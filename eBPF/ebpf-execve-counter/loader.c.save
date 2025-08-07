@@ -1,0 +1,45 @@
+// loader.c
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <bpf/libbpf.h>
+#include <bpf/bpf.h>
+#include <fcntl.h>
+#include <signal.h>
+
+static int map_fd;
+
+void print_count(int signo) {
+    __u32 key = 0;
+    __u64 value;
+    if (bpf_map_lookup_elem(map_fd, &key, &value) == 0) {
+        printf("\n[+] execve calls: %llu\n", value);
+    }
+    exit(0);
+}
+
+int main() {
+    struct bpf_object *obj;
+    struct bpf_program *prog;
+    int prog_fd;
+
+    signal(SIGINT, print_count);  // Ctrl+C to print & exit
+
+    obj = bpf_object__open_file("exec_counter.bpf.o", NULL);
+    if (libbpf_get_error(obj)) {
+        fprintf(stderr, "Failed to open BPF object\n");
+        return 1;
+    }
+
+    bpf_object__load(obj);
+
+    prog = bpf_object__find_program_by_name(obj, "count_execve");
+    prog_fd = bpf_program__fd(prog);
+
+    map_fd = bpf_object__find_map_fd_by_name(obj, "exec_counter");
+
+    int tp_fd = bpf_program__attach_tracepoint(prog, "syscalls", "sys_enter_execve");
+
+    printf("Running... press Ctrl+C to stop and print count\n");
+    while (1) pause();  // Wait for Ctrl+C
+
