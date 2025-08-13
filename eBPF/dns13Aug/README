@@ -1,0 +1,19 @@
+1. XDP program loaded and attached on enp2s0 (fd=5)
+
+    Our compiled BPF program (dns_filter.bpf.o) was successfully loaded into the kernel.
+
+    It is now actively running on the enp2s0 interface.
+
+    fd=5 is the file descriptor representing the loaded program in the kernel.
+
+    Any packets coming through enp2s0 are now being processed by our XDP program.
+
+2. Press Enter to detach...
+
+    The loader is waiting for you to press Enter to remove the program. This is a simple interactive way to keep the program running temporarily.
+
+3. XDP program detached
+
+    After pressed Enter, the loader called bpf_xdp_detach() and removed the XDP program from the interface.
+
+    Normal packet processing on enp2s0 resumes.
