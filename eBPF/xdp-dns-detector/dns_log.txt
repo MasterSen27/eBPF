@@ -1,0 +1,84 @@
+          <idle>-0       [007] ..s.1 16550.629114: bpf_trace_printk: DNS pkt: sport=53 dport=57726 ulen=136
+
+          <idle>-0       [007] ..s.1 16550.629120: bpf_trace_printk: DNS hdr: id=63619 qd=1 an=3
+
+          <idle>-0       [007] ..s.1 16550.629121: bpf_trace_printk: DNS hdr: ns=0 ar=1 flags=0x8180
+
+          <idle>-0       [007] ..s.1 16550.629122: bpf_trace_printk: DNS flg: QR=1 OPC=0 AA=0
+
+          <idle>-0       [007] ..s.1 16550.629122: bpf_trace_printk: DNS flg: TC=0 RD=1 RA=1
+
+          <idle>-0       [007] ..s.1 16550.629123: bpf_trace_printk: DNS flg: RCODE=0
+
+          <idle>-0       [007] ..s.1 16551.024943: bpf_trace_printk: DNS pkt: sport=53 dport=49969 ulen=159
+
+          <idle>-0       [007] ..s.1 16551.024958: bpf_trace_printk: DNS hdr: id=32347 qd=1 an=1
+
+          <idle>-0       [007] ..s.1 16551.024962: bpf_trace_printk: DNS hdr: ns=1 ar=1 flags=0x8180
+
+          <idle>-0       [007] ..s.1 16551.024965: bpf_trace_printk: DNS flg: QR=1 OPC=0 AA=0
+
+          <idle>-0       [007] ..s.1 16551.024968: bpf_trace_printk: DNS flg: TC=0 RD=1 RA=1
+
+          <idle>-0       [007] ..s.1 16551.024971: bpf_trace_printk: DNS flg: RCODE=0
+
+          <idle>-0       [007] ..s.1 16551.064709: bpf_trace_printk: DNS pkt: sport=53 dport=59780 ulen=131
+
+          <idle>-0       [007] ..s.1 16551.064720: bpf_trace_printk: DNS hdr: id=23062 qd=1 an=0
+
+          <idle>-0       [007] ..s.1 16551.064722: bpf_trace_printk: DNS hdr: ns=1 ar=1 flags=0x8180
+
+          <idle>-0       [007] ..s.1 16551.064724: bpf_trace_printk: DNS flg: QR=1 OPC=0 AA=0
+
+          <idle>-0       [007] ..s.1 16551.064726: bpf_trace_printk: DNS flg: TC=0 RD=1 RA=1
+
+          <idle>-0       [007] ..s.1 16551.064727: bpf_trace_printk: DNS flg: RCODE=0
+
+          <idle>-0       [007] ..s.1 16563.449342: bpf_trace_printk: DNS pkt: sport=53 dport=56139 ulen=63
+
+          <idle>-0       [007] ..s.1 16563.449354: bpf_trace_printk: DNS hdr: id=24695 qd=1 an=1
+
+          <idle>-0       [007] ..s.1 16563.449356: bpf_trace_printk: DNS hdr: ns=0 ar=1 flags=0x8180
+
+          <idle>-0       [007] ..s.1 16563.449358: bpf_trace_printk: DNS flg: QR=1 OPC=0 AA=0
+
+          <idle>-0       [007] ..s.1 16563.449360: bpf_trace_printk: DNS flg: TC=0 RD=1 RA=1
+
+          <idle>-0       [007] ..s.1 16563.449361: bpf_trace_printk: DNS flg: RCODE=0
+
+          <idle>-0       [007] ..s.1 16563.450152: bpf_trace_printk: DNS pkt: sport=53 dport=59467 ulen=75
+
+          <idle>-0       [007] ..s.1 16563.450162: bpf_trace_printk: DNS hdr: id=50875 qd=1 an=1
+
+          <idle>-0       [007] ..s.1 16563.450165: bpf_trace_printk: DNS hdr: ns=0 ar=1 flags=0x8180
+
+          <idle>-0       [007] ..s.1 16563.450166: bpf_trace_printk: DNS flg: QR=1 OPC=0 AA=0
+
+          <idle>-0       [007] ..s.1 16563.450168: bpf_trace_printk: DNS flg: TC=0 RD=1 RA=1
+
+          <idle>-0       [007] ..s.1 16563.450169: bpf_trace_printk: DNS flg: RCODE=0
+
+          <idle>-0       [007] ..s.1 16563.535579: bpf_trace_printk: DNS pkt: sport=53 dport=53598 ulen=102
+
+          <idle>-0       [007] ..s.1 16563.535590: bpf_trace_printk: DNS hdr: id=30343 qd=1 an=1
+
+          <idle>-0       [007] ..s.1 16563.535593: bpf_trace_printk: DNS hdr: ns=0 ar=1 flags=0x8180
+
+          <idle>-0       [007] ..s.1 16563.535595: bpf_trace_printk: DNS flg: QR=1 OPC=0 AA=0
+
+          <idle>-0       [007] ..s.1 16563.535596: bpf_trace_printk: DNS flg: TC=0 RD=1 RA=1
+
+          <idle>-0       [007] ..s.1 16563.535597: bpf_trace_printk: DNS flg: RCODE=0
+
+          <idle>-0       [007] ..s.1 16567.522251: bpf_trace_printk: DNS pkt: sport=53 dport=47968 ulen=131
+
+          <idle>-0       [007] ..s.1 16567.522254: bpf_trace_printk: DNS hdr: id=64046 qd=1 an=0
+
+          <idle>-0       [007] ..s.1 16567.522255: bpf_trace_printk: DNS hdr: ns=1 ar=1 flags=0x8180
+
+          <idle>-0       [007] ..s.1 16567.522255: bpf_trace_printk: DNS flg: QR=1 OPC=0 AA=0
+
+          <idle>-0       [007] ..s.1 16567.522256: bpf_trace_printk: DNS flg: TC=0 RD=1 RA=1
+
+          <idle>-0       [007] ..s.1 16567.522256: bpf_trace_printk: DNS flg: RCODE=0
+
