@@ -1,0 +1,323 @@
+Maps pinned to /sys/fs/bpf/
+Running... press Ctrl+C to exit
+DNS events will be displayed here. Run './monitor.sh' in another terminal for statistics.
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:47039 qtype=1 sublen=31 domain=incoming	telemetrymozillaorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:33405 qtype=28 sublen=31 domain=incoming	telemetrymozillaorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:53924 qtype=1 sublen=30 domain=gatorvolcescombytedns1com
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:36460 qtype=28 sublen=30 domain=gatorvolcescombytedns1com
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:40082 qtype=1 sublen=32 domain=signaler-paclients6googlecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:41016 qtype=28 sublen=32 domain=signaler-paclients6googlecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:51135 qtype=1 sublen=11 domain=googlecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:37066 qtype=28 sublen=11 domain=googlecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:60736 qtype=12 sublen=27 domain=1442251142in-addrarpa
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:58266 qtype=65 sublen=26 domain=mystery-game-tilepokiio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45977 qtype=1 sublen=26 domain=mystery-game-tilepokiio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:42285 qtype=28 sublen=26 domain=mystery-game-tilepokiio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55864 qtype=65 sublen=10 domain=tpokiio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:53918 qtype=1 sublen=10 domain=tpokiio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:41930 qtype=28 sublen=10 domain=tpokiio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38458 qtype=1 sublen=12 domain=examplecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34126 qtype=28 sublen=12 domain=examplecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:47861 qtype=65 sublen=18 domain=chatdeepseekcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:59861 qtype=1 sublen=30 domain=media-ccu1-2cdnwhatsappnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45084 qtype=28 sublen=30 domain=media-ccu1-2cdnwhatsappnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:41692 qtype=1 sublen=30 domain=media-ccu1-1cdnwhatsappnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:50230 qtype=65 sublen=30 domain=media-ccu1-1cdnwhatsappnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:58281 qtype=28 sublen=30 domain=media-ccu1-1cdnwhatsappnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:36325 qtype=65 sublen=30 domain=media-ccu2-1cdnwhatsappnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:36616 qtype=28 sublen=30 domain=media-ccu2-1cdnwhatsappnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:36286 qtype=1 sublen=30 domain=media-ccu2-1cdnwhatsappnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34840 qtype=65 sublen=24 domain=mmx-dscdnwhatsappnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43996 qtype=1 sublen=24 domain=mmx-dscdnwhatsappnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:47424 qtype=28 sublen=24 domain=mmx-dscdnwhatsappnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:32790 qtype=1 sublen=23 domain=ocspedgedigicertcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:51009 qtype=28 sublen=23 domain=ocspedgedigicertcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:49920 qtype=1 sublen=27 domain=waa-paclients6googlecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:52121 qtype=65 sublen=27 domain=waa-paclients6googlecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43004 qtype=28 sublen=27 domain=waa-paclients6googlecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57946 qtype=65 sublen=16 domain=playgooglecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43842 qtype=65 sublen=16 domain=sslgstaticcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43130 qtype=65 sublen=17 domain=imgpoki-cdncom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:36168 qtype=1 sublen=28 domain=safebrowsing
+googleapiscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34453 qtype=28 sublen=28 domain=safebrowsing
+googleapiscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48175 qtype=1 sublen=17 domain=imgpoki-cdncom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48226 qtype=28 sublen=17 domain=imgpoki-cdncom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:59961 qtype=65 sublen=25 domain=wwwgoogletagmanagercom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:42227 qtype=65 sublen=34 domain=fundingchoicesmessagesgooglecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48073 qtype=65 sublen=31 domain=securepubadsgdoubleclicknet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:54586 qtype=1 sublen=25 domain=wwwgoogletagmanagercom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57303 qtype=28 sublen=25 domain=wwwgoogletagmanagercom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34646 qtype=65 sublen=30 domain=pagead2googlesyndicationcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:32835 qtype=1 sublen=34 domain=fundingchoicesmessagesgooglecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48526 qtype=28 sublen=34 domain=fundingchoicesmessagesgooglecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:33479 qtype=28 sublen=30 domain=pagead2googlesyndicationcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:41673 qtype=65 sublen=19 domain=cdn
+ampprojectorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:35902 qtype=1 sublen=31 domain=securepubadsgdoubleclicknet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:53553 qtype=1 sublen=30 domain=pagead2googlesyndicationcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:42215 qtype=28 sublen=26 domain=tpcgooglesyndicationcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:59455 qtype=28 sublen=31 domain=securepubadsgdoubleclicknet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:59187 qtype=1 sublen=26 domain=tpcgooglesyndicationcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:37518 qtype=1 sublen=19 domain=cdn
+ampprojectorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43456 qtype=28 sublen=19 domain=cdn
+ampprojectorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:59764 qtype=65 sublen=26 domain=tpcgooglesyndicationcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:39666 qtype=65 sublen=17 domain=apiadinplaycom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43218 qtype=1 sublen=17 domain=apiadinplaycom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45349 qtype=28 sublen=17 domain=apiadinplaycom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:36094 qtype=65 sublen=18 domain=www3lgooglecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:37810 qtype=65 sublen=27 domain=cdn-content
+ampprojectorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55613 qtype=1 sublen=31 domain=incoming	telemetrymozillaorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:50406 qtype=28 sublen=31 domain=incoming	telemetrymozillaorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48400 qtype=65 sublen=25 domain=wwwgoogletagmanagercom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:60866 qtype=1 sublen=15 domain=eu1tilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38706 qtype=1 sublen=15 domain=usatilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:42520 qtype=65 sublen=16 domain=asiatilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55080 qtype=65 sublen=15 domain=eu1tilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:37589 qtype=65 sublen=15 domain=usatilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:59958 qtype=1 sublen=16 domain=asiatilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:49581 qtype=28 sublen=15 domain=eu1tilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55762 qtype=28 sublen=15 domain=usatilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:52525 qtype=28 sublen=16 domain=asiatilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45293 qtype=65 sublen=25 domain=wwwgoogle-analyticscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:56879 qtype=28 sublen=25 domain=wwwgoogle-analyticscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:46518 qtype=1 sublen=25 domain=wwwgoogle-analyticscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57156 qtype=1 sublen=11 domain=opkigoog
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:41570 qtype=28 sublen=11 domain=opkigoog
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38721 qtype=65 sublen=23 domain=storage
+googleapiscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:33719 qtype=1 sublen=23 domain=storage
+googleapiscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:44009 qtype=28 sublen=23 domain=storage
+googleapiscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:44004 qtype=1 sublen=35 domain=hb-vntsm-comglobalsslfastlynet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34320 qtype=65 sublen=35 domain=hb-vntsm-comglobalsslfastlynet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43098 qtype=28 sublen=35 domain=hb-vntsm-comglobalsslfastlynet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:41162 qtype=65 sublen=22 domain=imasdk
+googleapiscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:40864 qtype=1 sublen=22 domain=imasdk
+googleapiscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48193 qtype=28 sublen=22 domain=imasdk
+googleapiscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:49071 qtype=1 sublen=12 domain=hbvntsmio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:54189 qtype=28 sublen=12 domain=hbvntsmio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:33867 qtype=65 sublen=12 domain=hbvntsmio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:46902 qtype=65 sublen=17 domain=cdnjsdelivrnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:39357 qtype=28 sublen=17 domain=cdnjsdelivrnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:60603 qtype=1 sublen=17 domain=cdnjsdelivrnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:58832 qtype=65 sublen=24 domain=jsdelivrmapfastlynet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:46722 qtype=28 sublen=15 domain=gumcriteocom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:39422 qtype=65 sublen=15 domain=gumcriteocom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57258 qtype=1 sublen=15 domain=gumcriteocom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43576 qtype=65 sublen=28 domain=fastlanerubiconprojectcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57832 qtype=1 sublen=28 domain=fastlanerubiconprojectcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:60435 qtype=65 sublen=21 domain=htlbcasalemediacom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43359 qtype=1 sublen=21 domain=htlbcasalemediacom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:49469 qtype=28 sublen=21 domain=htlbcasalemediacom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:47548 qtype=65 sublen=14 domain=tlx3liftcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:50569 qtype=1 sublen=14 domain=tlx3liftcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45956 qtype=28 sublen=28 domain=fastlanerubiconprojectcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:60963 qtype=65 sublen=15 domain=
+onetag-syscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:33756 qtype=28 sublen=15 domain=
+onetag-syscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57789 qtype=1 sublen=15 domain=
+onetag-syscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:53002 qtype=65 sublen=11 domain=mp4dexio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:42739 qtype=1 sublen=11 domain=mp4dexio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:33882 qtype=28 sublen=11 domain=mp4dexio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48995 qtype=65 sublen=26 domain=elbthe-ozone-projectcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:39775 qtype=1 sublen=26 domain=elbthe-ozone-projectcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48045 qtype=28 sublen=26 domain=elbthe-ozone-projectcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:54206 qtype=28 sublen=14 domain=tlx3liftcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:50872 qtype=1 sublen=13 domain=ibadnxscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:51105 qtype=1 sublen=19 domain=servercpmstarcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:59511 qtype=65 sublen=19 domain=servercpmstarcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48863 qtype=28 sublen=19 domain=servercpmstarcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:46741 qtype=65 sublen=40 domain=	tagged-byrubiconprojectnetakadnsnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:37991 qtype=65 sublen=17 domain=as-tlx3liftcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:44168 qtype=65 sublen=13 domain=ibadnxscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38921 qtype=65 sublen=21 domain=ibsin1geoadnxscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38921 qtype=65 sublen=21 domain=ibsin1geoadnxscom
+DNS Packet: src=103.8.46.5:53 dst=14.194.176.204:41405 qtype=65 sublen=21 domain=ibsin1geoadnxscom
+DNS Packet: src=103.8.46.5:53 dst=14.194.176.204:52258 qtype=65 sublen=22 domain=edgevenatusmediacom
+DNS Packet: src=103.8.46.5:53 dst=14.194.176.204:57438 qtype=1 sublen=22 domain=edgevenatusmediacom
+DNS Packet: src=103.8.46.5:53 dst=14.194.176.204:60371 qtype=28 sublen=22 domain=edgevenatusmediacom
+DNS Packet: src=103.8.46.5:53 dst=14.194.176.204:41405 qtype=65 sublen=21 domain=ibsin1geoadnxscom
+DNS Packet: src=103.8.46.5:53 dst=14.194.176.204:45826 qtype=65 sublen=13 domain=ibadnxscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:51163 qtype=28 sublen=13 domain=ibadnxscom
+DNS Packet: src=103.8.46.5:53 dst=14.194.176.204:45826 qtype=65 sublen=13 domain=ibadnxscom
+DNS Packet: src=103.8.46.5:53 dst=14.194.176.204:35707 qtype=28 sublen=13 domain=ibadnxscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:47808 qtype=28 sublen=22 domain=edgevenatusmediacom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43687 qtype=1 sublen=22 domain=edgevenatusmediacom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38925 qtype=65 sublen=13 domain=ibadnxscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57641 qtype=28 sublen=13 domain=ibadnxscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:49145 qtype=1 sublen=16 domain=adsmozillaorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:51498 qtype=28 sublen=16 domain=adsmozillaorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38925 qtype=65 sublen=13 domain=ibadnxscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57641 qtype=28 sublen=13 domain=ibadnxscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:35565 qtype=65 sublen=13 domain=batbingcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:56327 qtype=1 sublen=13 domain=batbingcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:50127 qtype=28 sublen=13 domain=batbingcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:56140 qtype=65 sublen=22 domain=ax-0001	ax-msedgenet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:44896 qtype=1 sublen=45 domain=firefox-settings-attachmentscdnmozillanet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38896 qtype=28 sublen=45 domain=firefox-settings-attachmentscdnmozillanet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:47112 qtype=1 sublen=20 domain=ads-imgmozillaorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:32917 qtype=28 sublen=20 domain=ads-imgmozillaorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:44599 qtype=28 sublen=30 domain=img-getpocketcdnmozillanet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:44106 qtype=1 sublen=30 domain=img-getpocketcdnmozillanet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:53918 qtype=1 sublen=18 domain=
+skyscannerpxfio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:44431 qtype=28 sublen=18 domain=
+skyscannerpxfio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:40377 qtype=1 sublen=11 domain=githubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48423 qtype=28 sublen=11 domain=githubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48656 qtype=1 sublen=12 domain=chatgptcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:33117 qtype=28 sublen=12 domain=chatgptcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:44043 qtype=1 sublen=16 domain=chatopenaicom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:50095 qtype=1 sublen=16 domain=wwwyoutubecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:53715 qtype=28 sublen=16 domain=wwwyoutubecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43188 qtype=28 sublen=16 domain=chatopenaicom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38088 qtype=1 sublen=22 domain=wwwgeeksforgeeksorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57724 qtype=28 sublen=22 domain=wwwgeeksforgeeksorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:41302 qtype=1 sublen=18 domain=www	w3schoolscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38466 qtype=1 sublen=16 domain=wwwmozillaorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:35964 qtype=28 sublen=16 domain=wwwmozillaorg
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:39337 qtype=1 sublen=18 domain=indianexpresscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:56763 qtype=1 sublen=21 domain=wwwtimesnownewscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:60713 qtype=28 sublen=21 domain=wwwtimesnownewscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:51214 qtype=28 sublen=18 domain=indianexpresscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:52785 qtype=28 sublen=18 domain=www	w3schoolscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:56283 qtype=1 sublen=15 domain=wwwbustlecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38106 qtype=28 sublen=15 domain=wwwbustlecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:50771 qtype=65 sublen=11 domain=githubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:53911 qtype=65 sublen=24 domain=githubgithubassetscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55756 qtype=1 sublen=24 domain=githubgithubassetscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45593 qtype=65 sublen=30 domain=avatarsgithubusercontentcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:54974 qtype=1 sublen=30 domain=avatarsgithubusercontentcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:40284 qtype=28 sublen=30 domain=avatarsgithubusercontentcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:54805 qtype=1 sublen=17 domain=ocspsectigocom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:39083 qtype=28 sublen=17 domain=ocspsectigocom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:35456 qtype=28 sublen=24 domain=githubgithubassetscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:41841 qtype=65 sublen=21 domain=wwwespncricinfocom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57934 qtype=65 sublen=14 domain=wwwvoguecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34223 qtype=1 sublen=21 domain=wwwespncricinfocom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:44829 qtype=1 sublen=14 domain=wwwvoguecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:36740 qtype=28 sublen=14 domain=wwwvoguecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34305 qtype=28 sublen=21 domain=wwwespncricinfocom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:58223 qtype=65 sublen=27 domain=e33318dscj
+akamaiedgenet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:60510 qtype=65 sublen=24 domain=githubgithubassetscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:56428 qtype=65 sublen=30 domain=avatarsgithubusercontentcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:37064 qtype=65 sublen=30 domain=github-clouds3	amazonawscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34969 qtype=65 sublen=34 domain=user-imagesgithubusercontentcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:46549 qtype=1 sublen=34 domain=user-imagesgithubusercontentcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:50214 qtype=28 sublen=30 domain=github-clouds3	amazonawscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48898 qtype=1 sublen=30 domain=github-clouds3	amazonawscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57404 qtype=28 sublen=34 domain=user-imagesgithubusercontentcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:46018 qtype=65 sublen=29 domain=s3-w	us-east-1	amazonawscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:40685 qtype=65 sublen=21 domain=	collectorgithubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:35239 qtype=28 sublen=21 domain=	collectorgithubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:60091 qtype=1 sublen=21 domain=	collectorgithubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57658 qtype=65 sublen=30 domain=glb-db52c2cf8be544githubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:40198 qtype=1 sublen=15 domain=apigithubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:58874 qtype=65 sublen=15 domain=apigithubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:42609 qtype=28 sublen=15 domain=apigithubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48751 qtype=65 sublen=20 domain=wwwtheatlanticcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:49698 qtype=65 sublen=13 domain=wwwvoguein
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48992 qtype=1 sublen=20 domain=wwwtheatlanticcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55020 qtype=1 sublen=13 domain=wwwvoguein
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:53864 qtype=28 sublen=20 domain=wwwtheatlanticcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:52345 qtype=28 sublen=13 domain=wwwvoguein
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:42643 qtype=1 sublen=16 domain=sslgstaticcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:51677 qtype=28 sublen=16 domain=sslgstaticcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55158 qtype=65 sublen=27 domain=	thereadermitpressmitedu
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38418 qtype=65 sublen=12 domain=wwwbbccom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34113 qtype=1 sublen=27 domain=	thereadermitpressmitedu
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55558 qtype=28 sublen=27 domain=	thereadermitpressmitedu
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45730 qtype=1 sublen=12 domain=wwwbbccom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:54971 qtype=28 sublen=12 domain=wwwbbccom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:47871 qtype=65 sublen=26 domain=e9566dscb
+akamaiedgenet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:47731 qtype=65 sublen=19 domain=bbcmapfastlynet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55311 qtype=65 sublen=27 domain=wwwarchitecturaldigestin
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:56149 qtype=65 sublen=10 domain=scrollin
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:37009 qtype=65 sublen=23 domain=wwwsmithsonianmagcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:41966 qtype=1 sublen=10 domain=scrollin
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:56225 qtype=65 sublen=25 domain=wwwnewindianexpresscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:56001 qtype=1 sublen=27 domain=wwwarchitecturaldigestin
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:39004 qtype=1 sublen=23 domain=wwwsmithsonianmagcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:42390 qtype=28 sublen=25 domain=wwwnewindianexpresscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:49591 qtype=1 sublen=25 domain=wwwnewindianexpresscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:50909 qtype=65 sublen=20 domain=wwwtheguardiancom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55875 qtype=28 sublen=23 domain=wwwsmithsonianmagcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:59362 qtype=65 sublen=19 domain=www
+cntravelercom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:52715 qtype=65 sublen=20 domain=wwwfastcompanycom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34967 qtype=1 sublen=20 domain=wwwtheguardiancom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:37052 qtype=28 sublen=20 domain=wwwtheguardiancom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:39599 qtype=28 sublen=19 domain=www
+cntravelercom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:42382 qtype=1 sublen=19 domain=www
+cntravelercom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34508 qtype=1 sublen=20 domain=wwwfastcompanycom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45611 qtype=65 sublen=13 domain=wwwselfcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:59879 qtype=1 sublen=13 domain=wwwselfcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:47334 qtype=65 sublen=21 domain=wwwnewstatesmancom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:58312 qtype=28 sublen=13 domain=wwwselfcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48241 qtype=28 sublen=20 domain=wwwfastcompanycom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:39113 qtype=28 sublen=21 domain=wwwnewstatesmancom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45022 qtype=1 sublen=21 domain=wwwnewstatesmancom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:58369 qtype=1 sublen=19 domain=wwwcntravellerin
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55870 qtype=65 sublen=19 domain=wwwcntravellerin
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:44153 qtype=28 sublen=19 domain=wwwcntravellerin
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:51291 qtype=65 sublen=28 domain=e124713dscj
+akamaiedgenet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57579 qtype=65 sublen=25 domain=wwwdiscovermagazinecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34812 qtype=28 sublen=28 domain=e124713dscj
+akamaiedgenet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34550 qtype=1 sublen=25 domain=wwwdiscovermagazinecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:53875 qtype=28 sublen=25 domain=wwwdiscovermagazinecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:36282 qtype=28 sublen=27 domain=wwwarchitecturaldigestin
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:55732 qtype=65 sublen=20 domain=a46dscrakamainet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:60525 qtype=1 sublen=20 domain=wwwbarandbenchcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:52477 qtype=65 sublen=34 domain=	dualstackguardianmapfastlynet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:35843 qtype=65 sublen=24 domain=mansuetomapfastlynet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:52734 qtype=28 sublen=20 domain=wwwbarandbenchcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:35562 qtype=65 sublen=20 domain=wwwbarandbenchcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45014 qtype=1 sublen=15 domain=wwwnews18com
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:35962 qtype=28 sublen=15 domain=wwwnews18com
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:58035 qtype=28 sublen=10 domain=scrollin
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:54252 qtype=65 sublen=15 domain=wwwnews18com
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43327 qtype=1 sublen=14 domain=wwwwiredcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:50407 qtype=28 sublen=14 domain=wwwwiredcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:34560 qtype=65 sublen=14 domain=wwwwiredcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:60509 qtype=65 sublen=17 domain=drivegooglecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57460 qtype=1 sublen=17 domain=drivegooglecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43180 qtype=28 sublen=17 domain=drivegooglecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:43768 qtype=65 sublen=18 domain=
+skyscannerpxfio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:44216 qtype=65 sublen=11 domain=githubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:58020 qtype=65 sublen=12 domain=chatgptcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:41553 qtype=1 sublen=11 domain=githubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:36891 qtype=28 sublen=11 domain=githubcom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45519 qtype=65 sublen=11 domain=tilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:48832 qtype=65 sublen=24 domain=
+youtube-uilgooglecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:54515 qtype=1 sublen=11 domain=tilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:40980 qtype=65 sublen=30 domain=d1t2f3swasxi04
+cloudfrontnet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:38627 qtype=65 sublen=22 domain=a1400dscbakamainet
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45791 qtype=65 sublen=28 domain=www-mozillafastly-edgecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45885 qtype=65 sublen=18 domain=indianexpresscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:58075 qtype=28 sublen=28 domain=www-mozillafastly-edgecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:56528 qtype=1 sublen=18 domain=indianexpresscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:47119 qtype=65 sublen=15 domain=wwwbustlecom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:57946 qtype=28 sublen=18 domain=indianexpresscom
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:40037 qtype=28 sublen=11 domain=tilemanio
+DNS Packet: src=103.8.45.5:53 dst=14.194.176.204:45304 qtype=65 sublen=35 domain=chatopenaicomcdn
+cloudflarenet

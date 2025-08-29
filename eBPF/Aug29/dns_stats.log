@@ -1,0 +1,979 @@
+DNS Query Rate Monitor (using bpftool)
+Press Ctrl+C to exit
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:13:16 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1461001728520,
+        "value": 2
+    },{
+        "key": 1463060828588,
+        "value": 2
+    }
+]
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:13:21 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 2
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347804,
+        "value": 1
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 1
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1461001728520,
+        "value": 2
+    },{
+        "key": 1467994550629,
+        "value": 2
+    },{
+        "key": 1463060828588,
+        "value": 2
+    }
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:13:26 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 5
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 2
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 2
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1461001728520,
+        "value": 2
+    },{
+        "key": 1468124217858,
+        "value": 1
+    },{
+        "key": 1465149466845,
+        "value": 2
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:13:31 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 8
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 3
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 3
+    },{
+        "key": 22347841,
+        "value": 1
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1461001728520,
+        "value": 2
+    },{
+        "key": 1468124217858,
+        "value": 1
+    },{
+        "key": 1466929105425,
+        "value": 3
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:13:36 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 11
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 4
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 4
+    },{
+        "key": 22347841,
+        "value": 2
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1467453271290,
+        "value": 3
+    },{
+        "key": 1461001728520,
+        "value": 2
+    },{
+        "key": 1468124217858,
+        "value": 1
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:13:41 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 13
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 5
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 5
+    },{
+        "key": 22347841,
+        "value": 2
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1467453271290,
+        "value": 3
+    },{
+        "key": 1461001728520,
+        "value": 2
+    },{
+        "key": 1468124217858,
+        "value": 1
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:13:46 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 14
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 5
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 5
+    },{
+        "key": 22347841,
+        "value": 3
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1467453271290,
+        "value": 3
+    },{
+        "key": 1461001728520,
+        "value": 2
+    },{
+        "key": 1468773653038,
+        "value": 1
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:13:52 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 14
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 5
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 5
+    },{
+        "key": 22347841,
+        "value": 3
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1467453271290,
+        "value": 3
+    },{
+        "key": 1461001728520,
+        "value": 2
+    },{
+        "key": 1468773653038,
+        "value": 1
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:13:57 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 27
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 10
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 10
+    },{
+        "key": 22347841,
+        "value": 6
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1467453271290,
+        "value": 3
+    },{
+        "key": 1461001728520,
+        "value": 2
+    },{
+        "key": 1468773653038,
+        "value": 1
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:14:02 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 31
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 11
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 11
+    },{
+        "key": 22347841,
+        "value": 8
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1464928299924,
+        "value": 3
+    },{
+        "key": 1467453271290,
+        "value": 3
+    },{
+        "key": 1461001728520,
+        "value": 2
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:14:07 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 31
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 11
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 11
+    },{
+        "key": 22347841,
+        "value": 8
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1464928299924,
+        "value": 3
+    },{
+        "key": 1467453271290,
+        "value": 3
+    },{
+        "key": 1461001728520,
+        "value": 2
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:14:12 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 31
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 11
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 11
+    },{
+        "key": 22347841,
+        "value": 8
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1464928299924,
+        "value": 3
+    },{
+        "key": 1467453271290,
+        "value": 3
+    },{
+        "key": 1461001728520,
+        "value": 2
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:14:17 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 31
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 11
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 11
+    },{
+        "key": 22347841,
+        "value": 8
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1464928299924,
+        "value": 3
+    },{
+        "key": 1467453271290,
+        "value": 3
+    },{
+        "key": 1461001728520,
+        "value": 2
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:14:22 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 31
+    },{
+        "key": 342,
+        "value": 1
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22413377,
+        "value": 1
+    },{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 11
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 11
+    },{
+        "key": 22347841,
+        "value": 8
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1464928299924,
+        "value": 3
+    },{
+        "key": 1467453271290,
+        "value": 3
+    },{
+        "key": 1461001728520,
+        "value": 2
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:14:28 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 31
+    },{
+        "key": 342,
+        "value": 6
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22413377,
+        "value": 2
+    },{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 11
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22413313,
+        "value": 2
+    },{
+        "key": 22413340,
+        "value": 2
+    },{
+        "key": 22347777,
+        "value": 11
+    },{
+        "key": 22347841,
+        "value": 8
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1464928299924,
+        "value": 3
+    },{
+        "key": 1467453271290,
+        "value": 3
+    },{
+        "key": 1461001728520,
+        "value": 2
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:14:33 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 31
+    },{
+        "key": 342,
+        "value": 109
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22413377,
+        "value": 42
+    },{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 11
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22413313,
+        "value": 32
+    },{
+        "key": 22413340,
+        "value": 35
+    },{
+        "key": 22347777,
+        "value": 11
+    },{
+        "key": 22347841,
+        "value": 8
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1464928299924,
+        "value": 3
+    },{
+        "key": 1471687258710,
+        "value": 3
+    },{
+        "key": 1467453271290,
+        "value": 3
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:14:38 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 31
+    },{
+        "key": 342,
+        "value": 141
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22413377,
+        "value": 44
+    },{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 11
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22413313,
+        "value": 47
+    },{
+        "key": 22413340,
+        "value": 50
+    },{
+        "key": 22347777,
+        "value": 11
+    },{
+        "key": 22347841,
+        "value": 8
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1464928299924,
+        "value": 3
+    },{
+        "key": 1471687258710,
+        "value": 3
+    },{
+        "key": 1467453271290,
+        "value": 3
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:14:43 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 31
+    },{
+        "key": 342,
+        "value": 179
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22413377,
+        "value": 60
+    },{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 11
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22413313,
+        "value": 58
+    },{
+        "key": 22413340,
+        "value": 61
+    },{
+        "key": 22347777,
+        "value": 11
+    },{
+        "key": 22347841,
+        "value": 8
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1464928299924,
+        "value": 3
+    },{
+        "key": 1471687258710,
+        "value": 3
+    },{
+        "key": 1467453271290,
+        "value": 3
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:14:48 PM IST ===
+
+Map IDs found: Total=57, Type=58, Rate=56
+
+=== Total Queries Per Minute ===
+[{
+        "key": 340,
+        "value": 4
+    },{
+        "key": 341,
+        "value": 31
+    },{
+        "key": 342,
+        "value": 257
+    }
+]
+
+=== Queries By Type ===
+[{
+        "key": 22413377,
+        "value": 94
+    },{
+        "key": 22347788,
+        "value": 1
+    },{
+        "key": 22347804,
+        "value": 11
+    },{
+        "key": 22282268,
+        "value": 2
+    },{
+        "key": 22282241,
+        "value": 2
+    },{
+        "key": 22413313,
+        "value": 79
+    },{
+        "key": 22413340,
+        "value": 84
+    },{
+        "key": 22347777,
+        "value": 11
+    },{
+        "key": 22347841,
+        "value": 8
+    }
+]
+
+=== Query Rate (per domain) - First 5 entries ===
+[{
+        "key": 1464928299924,
+        "value": 3
+    },{
+        "key": 1471687258710,
+        "value": 3
+    },{
+        "key": 1467453271290,
+        "value": 3
+    },{
+
+=== Refresh in 5 seconds ===
+[H[2J[3J=== DNS Query Statistics - Friday 29 August 2025 09:14:53 PM IST ===
+
+ERROR: BPF maps not found!
+Make sure './loader eno1' is running in another terminal.
+
+Available maps:
