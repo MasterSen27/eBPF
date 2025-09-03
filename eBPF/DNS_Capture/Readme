@@ -1,1 +1,104 @@
-Coming soon...
+# eBPF DNS Capture (C Language Implementation)
+
+This project demonstrates how to use **eBPF (Extended Berkeley Packet Filter)** to capture and analyze DNS packets directly in the Linux kernel, with a **C-based eBPF program** and a **C-based user-space loader**.
+
+---
+
+## 📖 Overview
+
+Traditional packet capture tools like `tcpdump` or `Wireshark` operate in **user space** and may introduce overhead for high-speed networks. This project leverages **eBPF programs attached to XDP or TC hooks** to filter and capture **DNS packets** efficiently inside the Linux kernel.
+
+Key goals:
+- Learn **low-level networking concepts** and **eBPF programming**
+- Capture **DNS query and response packets** (UDP port 53)
+- Practice **building and loading BPF objects** from C code
+
+---
+
+## ✨ Features
+- Written fully in **C** (both kernel and user-space)
+- Uses **libbpf** for managing and loading BPF programs
+- Captures DNS queries and responses with minimal CPU overhead
+- Displays packet details: source/destination IP, ports, and DNS query names
+- Easy to extend for detecting anomalies or collecting telemetry
+
+---
+
+## 🛠️ Requirements
+
+1. **Linux Kernel**: 5.x+ with eBPF enabled  
+2. **Dependencies** (Ubuntu/Debian example):
+   ```bash
+   sudo apt update
+   sudo apt install clang llvm libbpf-dev libelf-dev zlib1g-dev make gcc
+   sudo apt install linux-headers-$(uname -r)
+
+    Root privileges to load BPF programs.
+
+📂 Repository Structure
+
+eBPF/
+ └── DNS_Capture/
+     ├── xdp_dns_kern.c        # eBPF kernel program
+     ├── loader.c              # User-space loader to attach/detach program
+     ├── xdp_dns_kern.skel.h   # Auto-generated BPF skeleton header
+     ├── Makefile              # Build instructions
+     └── README.md             # This documentation
+
+🏗️ Build Instructions
+
+    Clean previous builds:
+
+make clean
+
+Compile the eBPF program and loader:
+
+    make
+
+    This uses clang to compile xdp_dns_kern.c to BPF bytecode and gcc to build the loader.
+
+▶️ Running the Program
+
+    Find your network interface:
+
+ip link show
+
+Example output:
+
+2: eno1: <BROADCAST,MULTICAST,UP,LOWER_UP> ...
+
+Here, eno1 is the interface.
+
+Run the loader to attach the eBPF program:
+
+sudo ./loader eno1
+
+Output:
+
+XDP program loaded and attached on eno1 (fd=5)
+Press Enter to detach...
+
+Open another terminal and generate DNS queries:
+
+    dig google.com
+    dig github.com
+    dig openai.com
+
+    Watch your terminal for DNS packet logs.
+
+    Press Enter in the loader terminal to detach the program.
+
+📝 Example Output
+
+[DNS QUERY] SRC=192.168.1.10:52432 DST=8.8.8.8:53 NAME=google.com
+[DNS RESPONSE] SRC=8.8.8.8:53 DST=192.168.1.10:52432 NAME=google.com IP=142.250.72.14
+
+🔧 Troubleshooting
+
+    Permission denied: Always run loader with sudo.
+
+    Interface not found: Replace eno1 with your interface name.
+
+    No packets captured: Check your DNS resolver or test with dig or nslookup.
+
+    Skeleton header missing: Run make clean && make to regenerate xdp_dns_kern.skel.h.
