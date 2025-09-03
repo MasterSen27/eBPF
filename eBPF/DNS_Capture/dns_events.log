@@ -1,0 +1,430 @@
+Boot time offset set: 1756850390325048899 ns
+Maps pinned to /sys/fs/bpf/
+Running... press Ctrl+C to exit
+DNS events will be displayed here with Shannon entropy values.
+Run './monitor.sh' in another terminal for statistics.
+DNS Packet: time=2025-09-03 11:26:05.903743976 src=103.8.46.5:53 dst=14.194.176.204:44689 qtype=1 rcode=NOERROR(0) sublen=16 domain=adsmozillaorg entropy=3.500
+DNS Packet: time=2025-09-03 11:26:05.904988443 src=103.8.46.5:53 dst=14.194.176.204:40357 qtype=28 rcode=NOERROR(0) sublen=16 domain=adsmozillaorg entropy=3.500
+DNS Packet: time=2025-09-03 11:26:08.353393548 src=103.8.46.5:53 dst=14.194.176.204:35145 qtype=28 rcode=NOERROR(0) sublen=16 domain=wwwyoutubecom entropy=3.328
+DNS Packet: time=2025-09-03 11:26:08.358234171 src=103.8.46.5:53 dst=14.194.176.204:42484 qtype=1 rcode=NOERROR(0) sublen=16 domain=wwwyoutubecom entropy=3.328
+DNS Packet: time=2025-09-03 11:26:31.600103156 src=103.8.46.5:53 dst=14.194.176.204:56146 qtype=1 rcode=NOERROR(0) sublen=11 domain=googlecom entropy=2.845
+DNS Packet: time=2025-09-03 11:26:31.671651861 src=103.8.46.5:53 dst=14.194.176.204:56211 qtype=28 rcode=NOERROR(0) sublen=11 domain=googlecom entropy=2.845
+DNS Packet: time=2025-09-03 11:26:39.901086807 src=103.8.46.5:53 dst=14.194.176.204:43178 qtype=1 rcode=NOERROR(0) sublen=11 domain=openaicom entropy=3.278
+DNS Packet: time=2025-09-03 11:26:49.628433961 src=103.8.46.5:53 dst=14.194.176.204:41005 qtype=28 rcode=NOERROR(0) sublen=11 domain=githubcom entropy=3.459
+DNS Packet: time=2025-09-03 11:26:49.629203417 src=103.8.46.5:53 dst=14.194.176.204:48412 qtype=1 rcode=NOERROR(0) sublen=11 domain=githubcom entropy=3.459
+DNS Packet: time=2025-09-03 11:26:49.744480150 src=103.8.46.5:53 dst=14.194.176.204:37994 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:49.811172437 src=103.8.46.5:53 dst=14.194.176.204:37994 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:50.745822915 src=103.8.46.5:53 dst=14.194.176.204:58154 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:50.812633765 src=103.8.46.5:53 dst=14.194.176.204:58154 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:51.748964413 src=103.8.46.5:53 dst=14.194.176.204:43899 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:51.816515487 src=103.8.46.5:53 dst=14.194.176.204:43899 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:52.752724529 src=103.8.46.5:53 dst=14.194.176.204:36254 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:52.824299533 src=103.8.46.5:53 dst=14.194.176.204:36254 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:53.749211464 src=103.8.46.5:53 dst=14.194.176.204:51127 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:53.816880437 src=103.8.46.5:53 dst=14.194.176.204:51127 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:54.755587332 src=103.8.46.5:53 dst=14.194.176.204:59930 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:54.829714052 src=103.8.46.5:53 dst=14.194.176.204:59930 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:55.751428003 src=103.8.46.5:53 dst=14.194.176.204:55589 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:55.817591061 src=103.8.46.5:53 dst=14.194.176.204:55589 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:56.754295005 src=103.8.46.5:53 dst=14.194.176.204:51947 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:56.820514738 src=103.8.46.5:53 dst=14.194.176.204:51947 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:57.755093679 src=103.8.46.5:53 dst=14.194.176.204:39578 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:57.821205099 src=103.8.46.5:53 dst=14.194.176.204:39578 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:58.479666758 src=103.8.46.5:53 dst=14.194.176.204:48054 qtype=1 rcode=NOERROR(0) sublen=12 domain=examplecom entropy=3.252
+DNS Packet: time=2025-09-03 11:26:58.757889918 src=103.8.46.5:53 dst=14.194.176.204:48840 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:58.824559276 src=103.8.46.5:53 dst=14.194.176.204:48840 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:59.757258606 src=103.8.46.5:53 dst=14.194.176.204:54249 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:26:59.823678613 src=103.8.46.5:53 dst=14.194.176.204:54249 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:00.331766199 src=103.8.46.5:53 dst=14.194.176.204:37212 qtype=28 rcode=NOERROR(0) sublen=12 domain=examplecom entropy=3.252
+DNS Packet: time=2025-09-03 11:27:00.763225603 src=103.8.46.5:53 dst=14.194.176.204:47072 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:00.835238433 src=103.8.46.5:53 dst=14.194.176.204:47072 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:01.758714741 src=103.8.46.5:53 dst=14.194.176.204:47085 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:01.824673307 src=103.8.46.5:53 dst=14.194.176.204:47085 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:02.763671979 src=103.8.46.5:53 dst=14.194.176.204:59285 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:02.834277741 src=103.8.46.5:53 dst=14.194.176.204:59285 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:03.767444287 src=103.8.46.5:53 dst=14.194.176.204:60630 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:03.847873839 src=103.8.46.5:53 dst=14.194.176.204:60630 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:04.765316147 src=103.8.46.5:53 dst=14.194.176.204:41264 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:04.836071519 src=103.8.46.5:53 dst=14.194.176.204:41264 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:05.763835465 src=103.8.46.5:53 dst=14.194.176.204:56591 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:05.830936521 src=103.8.46.5:53 dst=14.194.176.204:56591 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:06.768350789 src=103.8.46.5:53 dst=14.194.176.204:36009 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:06.838980762 src=103.8.46.5:53 dst=14.194.176.204:36009 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:07.765258608 src=103.8.46.5:53 dst=14.194.176.204:42058 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:07.832256237 src=103.8.46.5:53 dst=14.194.176.204:42058 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:08.765560537 src=103.8.46.5:53 dst=14.194.176.204:49115 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:08.831675974 src=103.8.46.5:53 dst=14.194.176.204:49115 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:09.772145240 src=103.8.46.5:53 dst=14.194.176.204:55181 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:09.843178003 src=103.8.46.5:53 dst=14.194.176.204:55181 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:10.773233052 src=103.8.46.5:53 dst=14.194.176.204:56566 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:10.844584087 src=103.8.46.5:53 dst=14.194.176.204:56566 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:11.778221128 src=103.8.46.5:53 dst=14.194.176.204:56266 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:11.847567624 src=103.8.46.5:53 dst=14.194.176.204:56266 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:12.771649411 src=103.8.46.5:53 dst=14.194.176.204:34237 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:12.838359738 src=103.8.46.5:53 dst=14.194.176.204:34237 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:13.785269875 src=103.8.46.5:53 dst=14.194.176.204:60189 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:13.857151590 src=103.8.46.5:53 dst=14.194.176.204:60189 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:14.776779736 src=103.8.46.5:53 dst=14.194.176.204:48673 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:14.847970832 src=103.8.46.5:53 dst=14.194.176.204:48673 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:15.773384266 src=103.8.46.5:53 dst=14.194.176.204:54163 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:15.840387140 src=103.8.46.5:53 dst=14.194.176.204:54163 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:16.341467299 src=103.8.46.5:53 dst=14.194.176.204:54905 qtype=1 rcode=NOERROR(0) sublen=12 domain=exampleorg entropy=3.418
+DNS Packet: time=2025-09-03 11:27:16.346017508 src=103.8.46.5:53 dst=14.194.176.204:37660 qtype=28 rcode=NOERROR(0) sublen=12 domain=exampleorg entropy=3.418
+DNS Packet: time=2025-09-03 11:27:16.774626951 src=103.8.46.5:53 dst=14.194.176.204:34230 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:16.843193958 src=103.8.46.5:53 dst=14.194.176.204:34230 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:17.780338141 src=103.8.46.5:53 dst=14.194.176.204:53203 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:17.851411060 src=103.8.46.5:53 dst=14.194.176.204:53203 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:18.776294671 src=103.8.46.5:53 dst=14.194.176.204:42829 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:18.843642563 src=103.8.46.5:53 dst=14.194.176.204:42829 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:19.782387274 src=103.8.46.5:53 dst=14.194.176.204:49621 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:19.852836469 src=103.8.46.5:53 dst=14.194.176.204:49621 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:20.779025840 src=103.8.46.5:53 dst=14.194.176.204:58824 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:20.845579522 src=103.8.46.5:53 dst=14.194.176.204:58824 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:21.780305679 src=103.8.46.5:53 dst=14.194.176.204:33427 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:21.846355509 src=103.8.46.5:53 dst=14.194.176.204:33427 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:22.787011250 src=103.8.46.5:53 dst=14.194.176.204:56221 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:22.857937845 src=103.8.46.5:53 dst=14.194.176.204:56221 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:23.788577405 src=103.8.46.5:53 dst=14.194.176.204:48051 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:23.859479228 src=103.8.46.5:53 dst=14.194.176.204:48051 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:24.790707881 src=103.8.46.5:53 dst=14.194.176.204:49652 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:24.862291725 src=103.8.46.5:53 dst=14.194.176.204:49652 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:25.785321024 src=103.8.46.5:53 dst=14.194.176.204:45677 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:25.851190036 src=103.8.46.5:53 dst=14.194.176.204:45677 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:26.791641633 src=103.8.46.5:53 dst=14.194.176.204:52809 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:26.862573617 src=103.8.46.5:53 dst=14.194.176.204:52809 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:27.788426374 src=103.8.46.5:53 dst=14.194.176.204:53817 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:27.835554062 src=103.8.46.5:53 dst=14.194.176.204:48114 qtype=28 rcode=NOERROR(0) sublen=11 domain=googlecom entropy=2.845
+DNS Packet: time=2025-09-03 11:27:27.854310298 src=103.8.46.5:53 dst=14.194.176.204:53817 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:28.791638374 src=103.8.46.5:53 dst=14.194.176.204:52178 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:28.857737539 src=103.8.46.5:53 dst=14.194.176.204:52178 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:29.792252875 src=103.8.46.5:53 dst=14.194.176.204:46764 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:29.858933180 src=103.8.46.5:53 dst=14.194.176.204:46764 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:30.797538105 src=103.8.46.5:53 dst=14.194.176.204:51565 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:30.867914055 src=103.8.46.5:53 dst=14.194.176.204:51565 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:31.153723447 src=103.8.46.5:53 dst=14.194.176.204:57732 qtype=1 rcode=NOERROR(0) sublen=11 domain=openaicom entropy=3.278
+DNS Packet: time=2025-09-03 11:27:31.793956589 src=103.8.46.5:53 dst=14.194.176.204:35727 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:31.860852882 src=103.8.46.5:53 dst=14.194.176.204:35727 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:32.795397568 src=103.8.46.5:53 dst=14.194.176.204:52592 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:32.862429297 src=103.8.46.5:53 dst=14.194.176.204:52592 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:33.800641573 src=103.8.46.5:53 dst=14.194.176.204:35202 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:33.871349355 src=103.8.46.5:53 dst=14.194.176.204:35202 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:34.802684679 src=103.8.46.5:53 dst=14.194.176.204:34826 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:34.874219399 src=103.8.46.5:53 dst=14.194.176.204:34826 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:35.804651923 src=103.8.46.5:53 dst=14.194.176.204:51893 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:35.875711921 src=103.8.46.5:53 dst=14.194.176.204:51893 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:36.805591801 src=103.8.46.5:53 dst=14.194.176.204:35838 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:36.876761973 src=103.8.46.5:53 dst=14.194.176.204:35838 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:37.803116311 src=103.8.46.5:53 dst=14.194.176.204:55361 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:37.870327243 src=103.8.46.5:53 dst=14.194.176.204:55361 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:38.810575409 src=103.8.46.5:53 dst=14.194.176.204:53704 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:38.881412815 src=103.8.46.5:53 dst=14.194.176.204:53704 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:39.810613348 src=103.8.46.5:53 dst=14.194.176.204:54611 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:39.882265141 src=103.8.46.5:53 dst=14.194.176.204:54611 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:40.811050927 src=103.8.46.5:53 dst=14.194.176.204:56583 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:40.882067203 src=103.8.46.5:53 dst=14.194.176.204:56583 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:41.813910414 src=103.8.46.5:53 dst=14.194.176.204:43392 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:41.884750609 src=103.8.46.5:53 dst=14.194.176.204:43392 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:42.131653282 src=103.8.46.5:53 dst=14.194.176.204:50273 qtype=28 rcode=NOERROR(0) sublen=18 domain=chatdeepseekcom entropy=3.614
+DNS Packet: time=2025-09-03 11:27:42.134988971 src=103.8.46.5:53 dst=14.194.176.204:37667 qtype=1 rcode=NOERROR(0) sublen=18 domain=chatdeepseekcom entropy=3.614
+DNS Packet: time=2025-09-03 11:27:42.136610632 src=103.8.46.5:53 dst=14.194.176.204:58633 qtype=65 rcode=NOERROR(0) sublen=18 domain=chatdeepseekcom entropy=3.614
+DNS Packet: time=2025-09-03 11:27:42.822127700 src=103.8.46.5:53 dst=14.194.176.204:53688 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:42.901088139 src=103.8.46.5:53 dst=14.194.176.204:53688 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:43.811381629 src=103.8.46.5:53 dst=14.194.176.204:49232 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:43.877748995 src=103.8.46.5:53 dst=14.194.176.204:49232 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:44.816377304 src=103.8.46.5:53 dst=14.194.176.204:40614 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:44.887587314 src=103.8.46.5:53 dst=14.194.176.204:40614 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:45.817177961 src=103.8.46.5:53 dst=14.194.176.204:57201 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:45.888170117 src=103.8.46.5:53 dst=14.194.176.204:57201 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:46.818844559 src=103.8.46.5:53 dst=14.194.176.204:48775 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:46.889907508 src=103.8.46.5:53 dst=14.194.176.204:48775 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:47.818523600 src=103.8.46.5:53 dst=14.194.176.204:59033 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:47.889065096 src=103.8.46.5:53 dst=14.194.176.204:59033 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:48.814196825 src=103.8.46.5:53 dst=14.194.176.204:38759 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:48.880045320 src=103.8.46.5:53 dst=14.194.176.204:38759 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:49.821362128 src=103.8.46.5:53 dst=14.194.176.204:55393 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:49.892877394 src=103.8.46.5:53 dst=14.194.176.204:55393 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:50.821786636 src=103.8.46.5:53 dst=14.194.176.204:48778 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:50.894750177 src=103.8.46.5:53 dst=14.194.176.204:48778 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:51.818570853 src=103.8.46.5:53 dst=14.194.176.204:55360 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:51.885415037 src=103.8.46.5:53 dst=14.194.176.204:55360 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:52.529918231 src=103.8.46.5:53 dst=14.194.176.204:33296 qtype=1 rcode=NOERROR(0) sublen=20 domain=accountsgooglecom entropy=3.584
+DNS Packet: time=2025-09-03 11:27:52.530065369 src=103.8.46.5:53 dst=14.194.176.204:53400 qtype=1 rcode=NOERROR(0) sublen=18 domain=www	wikipediaorg entropy=3.350
+DNS Packet: time=2025-09-03 11:27:52.530758273 src=103.8.46.5:53 dst=14.194.176.204:51409 qtype=65 rcode=NOERROR(0) sublen=11 domain=githubcom entropy=3.459
+DNS Packet: time=2025-09-03 11:27:52.530764225 src=103.8.46.5:53 dst=14.194.176.204:59992 qtype=1 rcode=NOERROR(0) sublen=11 domain=githubcom entropy=3.459
+DNS Packet: time=2025-09-03 11:27:52.530765234 src=103.8.46.5:53 dst=14.194.176.204:48412 qtype=65 rcode=NOERROR(0) sublen=20 domain=accountsgooglecom entropy=3.584
+DNS Packet: time=2025-09-03 11:27:52.531152778 src=103.8.46.5:53 dst=14.194.176.204:34436 qtype=28 rcode=NOERROR(0) sublen=11 domain=githubcom entropy=3.459
+DNS Packet: time=2025-09-03 11:27:52.531378657 src=103.8.46.5:53 dst=14.194.176.204:34206 qtype=65 rcode=NOERROR(0) sublen=18 domain=www	wikipediaorg entropy=3.350
+DNS Packet: time=2025-09-03 11:27:52.531384393 src=103.8.46.5:53 dst=14.194.176.204:39667 qtype=1 rcode=NOERROR(0) sublen=12 domain=chatgptcom entropy=3.252
+DNS Packet: time=2025-09-03 11:27:52.531587736 src=103.8.46.5:53 dst=14.194.176.204:46341 qtype=1 rcode=NOERROR(0) sublen=16 domain=authopenaicom entropy=3.750
+DNS Packet: time=2025-09-03 11:27:52.535195488 src=103.8.46.5:53 dst=14.194.176.204:48901 qtype=28 rcode=NOERROR(0) sublen=18 domain=www	wikipediaorg entropy=3.350
+DNS Packet: time=2025-09-03 11:27:52.535532626 src=103.8.46.5:53 dst=14.194.176.204:41401 qtype=65 rcode=NOERROR(0) sublen=16 domain=authopenaicom entropy=3.750
+DNS Packet: time=2025-09-03 11:27:52.535675158 src=103.8.46.5:53 dst=14.194.176.204:53840 qtype=65 rcode=NOERROR(0) sublen=12 domain=chatgptcom entropy=3.252
+DNS Packet: time=2025-09-03 11:27:52.536518145 src=103.8.46.5:53 dst=14.194.176.204:55301 qtype=28 rcode=NOERROR(0) sublen=20 domain=accountsgooglecom entropy=3.584
+DNS Packet: time=2025-09-03 11:27:52.557463838 src=103.8.46.5:53 dst=14.194.176.204:54706 qtype=28 rcode=NOERROR(0) sublen=35 domain=merino-imagesservicesmozillacom entropy=3.943
+DNS Packet: time=2025-09-03 11:27:52.558880764 src=103.8.46.5:53 dst=14.194.176.204:49422 qtype=65 rcode=NOERROR(0) sublen=35 domain=merino-imagesservicesmozillacom entropy=3.943
+DNS Packet: time=2025-09-03 11:27:52.561408151 src=103.8.46.5:53 dst=14.194.176.204:55260 qtype=28 rcode=NOERROR(0) sublen=16 domain=authopenaicom entropy=3.750
+DNS Packet: time=2025-09-03 11:27:52.561422786 src=103.8.46.5:53 dst=14.194.176.204:46260 qtype=28 rcode=NOERROR(0) sublen=24 domain=
+youtube-uilgooglecom entropy=3.804
+DNS Packet: time=2025-09-03 11:27:52.571746594 src=103.8.46.5:53 dst=14.194.176.204:36450 qtype=28 rcode=NOERROR(0) sublen=30 domain=img-getpocketcdnmozillanet entropy=4.057
+DNS Packet: time=2025-09-03 11:27:52.575903877 src=103.8.46.5:53 dst=14.194.176.204:35332 qtype=1 rcode=NOERROR(0) sublen=30 domain=img-getpocketcdnmozillanet entropy=4.057
+DNS Packet: time=2025-09-03 11:27:52.576248135 src=103.8.46.5:53 dst=14.194.176.204:59912 qtype=65 rcode=NOERROR(0) sublen=30 domain=img-getpocketcdnmozillanet entropy=4.057
+DNS Packet: time=2025-09-03 11:27:52.599089709 src=103.8.46.5:53 dst=14.194.176.204:50717 qtype=1 rcode=NOERROR(0) sublen=16 domain=wwwmozillaorg entropy=3.328
+DNS Packet: time=2025-09-03 11:27:52.603436415 src=103.8.46.5:53 dst=14.194.176.204:34803 qtype=65 rcode=NOERROR(0) sublen=19 domain=dyna	wikimediaorg entropy=3.787
+DNS Packet: time=2025-09-03 11:27:52.604915257 src=103.8.46.5:53 dst=14.194.176.204:56259 qtype=65 rcode=NOERROR(0) sublen=16 domain=wwwmozillaorg entropy=3.328
+DNS Packet: time=2025-09-03 11:27:52.605522815 src=103.8.46.5:53 dst=14.194.176.204:33319 qtype=28 rcode=NOERROR(0) sublen=16 domain=wwwmozillaorg entropy=3.328
+DNS Packet: time=2025-09-03 11:27:52.649922182 src=103.8.46.5:53 dst=14.194.176.204:42224 qtype=65 rcode=NOERROR(0) sublen=41 domain=img-prodpocketprodcloudopsmozgcpnet entropy=4.123
+DNS Packet: time=2025-09-03 11:27:52.675778516 src=103.8.46.5:53 dst=14.194.176.204:50414 qtype=65 rcode=NOERROR(0) sublen=28 domain=www-mozillafastly-edgecom entropy=4.039
+DNS Packet: time=2025-09-03 11:27:52.838741302 src=103.8.46.5:53 dst=14.194.176.204:54447 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:52.910348385 src=103.8.46.5:53 dst=14.194.176.204:54447 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:53.820595059 src=103.8.46.5:53 dst=14.194.176.204:59972 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:53.887381932 src=103.8.46.5:53 dst=14.194.176.204:59972 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:54.546893886 src=103.8.46.5:53 dst=14.194.176.204:51850 qtype=65 rcode=NOERROR(0) sublen=23 domain=wwwsmithsonianmagcom entropy=3.588
+DNS Packet: time=2025-09-03 11:27:54.546965945 src=103.8.46.5:53 dst=14.194.176.204:37817 qtype=1 rcode=NOERROR(0) sublen=23 domain=wwwsmithsonianmagcom entropy=3.588
+DNS Packet: time=2025-09-03 11:27:54.547471008 src=103.8.46.5:53 dst=14.194.176.204:59487 qtype=65 rcode=NOERROR(0) sublen=23 domain=wwwtelegraphindiacom entropy=3.969
+DNS Packet: time=2025-09-03 11:27:54.548645604 src=103.8.46.5:53 dst=14.194.176.204:44696 qtype=28 rcode=NOERROR(0) sublen=23 domain=wwwtelegraphindiacom entropy=3.969
+DNS Packet: time=2025-09-03 11:27:54.549305654 src=103.8.46.5:53 dst=14.194.176.204:39196 qtype=65 rcode=NOERROR(0) sublen=13 domain=wwwcnbccom entropy=2.815
+DNS Packet: time=2025-09-03 11:27:54.552419270 src=103.8.46.5:53 dst=14.194.176.204:35470 qtype=1 rcode=NOERROR(0) sublen=13 domain=wwwcnbccom entropy=2.815
+DNS Packet: time=2025-09-03 11:27:54.553093213 src=103.8.46.5:53 dst=14.194.176.204:56726 qtype=1 rcode=NOERROR(0) sublen=23 domain=wwwtelegraphindiacom entropy=3.969
+DNS Packet: time=2025-09-03 11:27:54.553331674 src=103.8.46.5:53 dst=14.194.176.204:47069 qtype=28 rcode=NOERROR(0) sublen=23 domain=wwwsmithsonianmagcom entropy=3.588
+DNS Packet: time=2025-09-03 11:27:54.553575106 src=103.8.46.5:53 dst=14.194.176.204:37371 qtype=28 rcode=NOERROR(0) sublen=13 domain=wwwcnbccom entropy=2.815
+DNS Packet: time=2025-09-03 11:27:54.613816409 src=103.8.46.5:53 dst=14.194.176.204:39526 qtype=65 rcode=NOERROR(0) sublen=23 domain=e1483j
+akamaiedgenet entropy=3.969
+DNS Packet: time=2025-09-03 11:27:54.620563307 src=103.8.46.5:53 dst=14.194.176.204:41199 qtype=65 rcode=NOERROR(0) sublen=25 domain=e3365e12
+akamaiedgenet entropy=3.829
+DNS Packet: time=2025-09-03 11:27:54.826198272 src=103.8.46.5:53 dst=14.194.176.204:59686 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:54.897276617 src=103.8.46.5:53 dst=14.194.176.204:59686 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:55.822434035 src=103.8.46.5:53 dst=14.194.176.204:48208 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:55.888810791 src=103.8.46.5:53 dst=14.194.176.204:48208 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:56.828590019 src=103.8.46.5:53 dst=14.194.176.204:44905 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:56.899230689 src=103.8.46.5:53 dst=14.194.176.204:44905 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:57.825295228 src=103.8.46.5:53 dst=14.194.176.204:60035 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:57.893179901 src=103.8.46.5:53 dst=14.194.176.204:60035 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:58.119043163 src=103.8.46.5:53 dst=14.194.176.204:34738 qtype=1 rcode=NOERROR(0) sublen=15 domain=wwwgooglecom entropy=3.006
+DNS Packet: time=2025-09-03 11:27:58.119601865 src=103.8.46.5:53 dst=14.194.176.204:53190 qtype=28 rcode=NOERROR(0) sublen=15 domain=wwwgooglecom entropy=3.006
+DNS Packet: time=2025-09-03 11:27:58.527941799 src=103.8.46.5:53 dst=14.194.176.204:43125 qtype=1 rcode=NOERROR(0) sublen=27 domain=encrypted-tbn0gstaticcom entropy=4.134
+DNS Packet: time=2025-09-03 11:27:58.532898702 src=103.8.46.5:53 dst=14.194.176.204:36088 qtype=28 rcode=NOERROR(0) sublen=27 domain=encrypted-tbn0gstaticcom entropy=4.134
+DNS Packet: time=2025-09-03 11:27:58.569708242 src=103.8.46.5:53 dst=14.194.176.204:34152 qtype=1 rcode=NOERROR(0) sublen=18 domain=www	firstpostcom entropy=3.461
+DNS Packet: time=2025-09-03 11:27:58.569933738 src=103.8.46.5:53 dst=14.194.176.204:41092 qtype=28 rcode=NOERROR(0) sublen=18 domain=www
+indiatodayin entropy=3.308
+DNS Packet: time=2025-09-03 11:27:58.573834888 src=103.8.46.5:53 dst=14.194.176.204:39995 qtype=1 rcode=NOERROR(0) sublen=18 domain=www
+indiatodayin entropy=3.308
+DNS Packet: time=2025-09-03 11:27:58.574098788 src=103.8.46.5:53 dst=14.194.176.204:51707 qtype=28 rcode=NOERROR(0) sublen=18 domain=www	firstpostcom entropy=3.461
+DNS Packet: time=2025-09-03 11:27:58.574184075 src=103.8.46.5:53 dst=14.194.176.204:60196 qtype=65 rcode=NOERROR(0) sublen=18 domain=www
+indiatodayin entropy=3.308
+DNS Packet: time=2025-09-03 11:27:58.574737621 src=103.8.46.5:53 dst=14.194.176.204:52672 qtype=65 rcode=NOERROR(0) sublen=18 domain=www	firstpostcom entropy=3.461
+DNS Packet: time=2025-09-03 11:27:58.641145631 src=103.8.46.5:53 dst=14.194.176.204:50813 qtype=65 rcode=NOERROR(0) sublen=23 domain=a1845dsccfakamainet entropy=4.002
+DNS Packet: time=2025-09-03 11:27:58.830732195 src=103.8.46.5:53 dst=14.194.176.204:40346 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:58.901571998 src=103.8.46.5:53 dst=14.194.176.204:40346 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:59.832348290 src=103.8.46.5:53 dst=14.194.176.204:50773 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:27:59.903584779 src=103.8.46.5:53 dst=14.194.176.204:50773 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:00.575111922 src=103.8.46.5:53 dst=14.194.176.204:53017 qtype=28 rcode=NOERROR(0) sublen=12 domain=wwwbbccom entropy=2.459
+DNS Packet: time=2025-09-03 11:28:00.575518277 src=103.8.46.5:53 dst=14.194.176.204:34139 qtype=28 rcode=NOERROR(0) sublen=13 domain=wwwvoguein entropy=3.335
+DNS Packet: time=2025-09-03 11:28:00.577141601 src=103.8.46.5:53 dst=14.194.176.204:45392 qtype=65 rcode=NOERROR(0) sublen=12 domain=wwwbbccom entropy=2.459
+DNS Packet: time=2025-09-03 11:28:00.578895730 src=103.8.46.5:53 dst=14.194.176.204:54547 qtype=65 rcode=NOERROR(0) sublen=13 domain=wwwvoguein entropy=3.335
+DNS Packet: time=2025-09-03 11:28:00.579424349 src=103.8.46.5:53 dst=14.194.176.204:43755 qtype=1 rcode=NOERROR(0) sublen=13 domain=wwwvoguein entropy=3.335
+DNS Packet: time=2025-09-03 11:28:00.580409118 src=103.8.46.5:53 dst=14.194.176.204:36985 qtype=1 rcode=NOERROR(0) sublen=12 domain=wwwbbccom entropy=2.459
+DNS Packet: time=2025-09-03 11:28:00.648185960 src=103.8.46.5:53 dst=14.194.176.204:45146 qtype=65 rcode=NOERROR(0) sublen=19 domain=bbcmapfastlynet entropy=3.682
+DNS Packet: time=2025-09-03 11:28:00.829796522 src=103.8.46.5:53 dst=14.194.176.204:52601 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:00.896411385 src=103.8.46.5:53 dst=14.194.176.204:52601 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:01.088309960 src=103.8.46.5:53 dst=14.194.176.204:59951 qtype=1 rcode=NOERROR(0) sublen=16 domain=wwwgstaticcom entropy=3.328
+DNS Packet: time=2025-09-03 11:28:01.088319269 src=103.8.46.5:53 dst=14.194.176.204:40601 qtype=28 rcode=NOERROR(0) sublen=16 domain=wwwgstaticcom entropy=3.328
+DNS Packet: time=2025-09-03 11:28:01.088912113 src=103.8.46.5:53 dst=14.194.176.204:60599 qtype=65 rcode=NOERROR(0) sublen=16 domain=wwwgstaticcom entropy=3.328
+DNS Packet: time=2025-09-03 11:28:01.089517204 src=103.8.46.5:53 dst=14.194.176.204:34627 qtype=65 rcode=NOERROR(0) sublen=27 domain=encrypted-tbn0gstaticcom entropy=4.134
+DNS Packet: time=2025-09-03 11:28:01.249205046 src=103.8.46.5:53 dst=14.194.176.204:47131 qtype=28 rcode=NOERROR(0) sublen=13 domain=wwwselfcom entropy=3.181
+DNS Packet: time=2025-09-03 11:28:01.253516040 src=103.8.46.5:53 dst=14.194.176.204:50612 qtype=1 rcode=NOERROR(0) sublen=13 domain=wwwselfcom entropy=3.181
+DNS Packet: time=2025-09-03 11:28:01.253927361 src=103.8.46.5:53 dst=14.194.176.204:38544 qtype=65 rcode=NOERROR(0) sublen=13 domain=wwwselfcom entropy=3.181
+DNS Packet: time=2025-09-03 11:28:01.278215671 src=103.8.46.5:53 dst=14.194.176.204:54035 qtype=28 rcode=NOERROR(0) sublen=31 domain=incoming	telemetrymozillaorg entropy=3.929
+DNS Packet: time=2025-09-03 11:28:01.284603372 src=103.8.46.5:53 dst=14.194.176.204:33250 qtype=1 rcode=NOERROR(0) sublen=31 domain=incoming	telemetrymozillaorg entropy=3.929
+DNS Packet: time=2025-09-03 11:28:01.314679591 src=103.8.46.5:53 dst=14.194.176.204:41530 qtype=28 rcode=NOERROR(0) sublen=26 domain=lh3googleusercontentcom entropy=3.748
+DNS Packet: time=2025-09-03 11:28:01.314728603 src=103.8.46.5:53 dst=14.194.176.204:55253 qtype=1 rcode=NOERROR(0) sublen=26 domain=lh3googleusercontentcom entropy=3.748
+DNS Packet: time=2025-09-03 11:28:01.315573022 src=103.8.46.5:53 dst=14.194.176.204:51357 qtype=65 rcode=NOERROR(0) sublen=26 domain=lh3googleusercontentcom entropy=3.748
+DNS Packet: time=2025-09-03 11:28:01.323662548 src=103.8.46.5:53 dst=14.194.176.204:40670 qtype=28 rcode=NOERROR(0) sublen=18 domain=fontsgstaticcom entropy=3.572
+DNS Packet: time=2025-09-03 11:28:01.324526259 src=103.8.46.5:53 dst=14.194.176.204:37677 qtype=1 rcode=NOERROR(0) sublen=18 domain=fontsgstaticcom entropy=3.572
+DNS Packet: time=2025-09-03 11:28:01.374573052 src=103.8.46.5:53 dst=14.194.176.204:45025 qtype=1 rcode=NOERROR(0) sublen=25 domain=wwwgoogleadservicescom entropy=3.753
+DNS Packet: time=2025-09-03 11:28:01.379204639 src=103.8.46.5:53 dst=14.194.176.204:57135 qtype=28 rcode=NOERROR(0) sublen=25 domain=wwwgoogleadservicescom entropy=3.753
+DNS Packet: time=2025-09-03 11:28:01.383389745 src=103.8.46.5:53 dst=14.194.176.204:39428 qtype=65 rcode=NOERROR(0) sublen=37 domain=googlehostedlgoogleusercontentcom entropy=3.729
+DNS Packet: time=2025-09-03 11:28:01.545875132 src=103.8.46.5:53 dst=14.194.176.204:34460 qtype=1 rcode=NOERROR(0) sublen=19 domain=csp
+withgooglecom entropy=3.682
+DNS Packet: time=2025-09-03 11:28:01.555266440 src=103.8.46.5:53 dst=14.194.176.204:55294 qtype=65 rcode=NOERROR(0) sublen=19 domain=csp
+withgooglecom entropy=3.682
+DNS Packet: time=2025-09-03 11:28:01.555279139 src=103.8.46.5:53 dst=14.194.176.204:57303 qtype=28 rcode=NOERROR(0) sublen=19 domain=csp
+withgooglecom entropy=3.682
+DNS Packet: time=2025-09-03 11:28:01.560512897 src=103.8.46.5:53 dst=14.194.176.204:47286 qtype=65 rcode=NOERROR(0) sublen=16 domain=wwwgstaticcom entropy=3.328
+DNS Packet: time=2025-09-03 11:28:01.641157450 src=103.8.46.5:53 dst=14.194.176.204:60664 qtype=1 rcode=NOERROR(0) sublen=29 domain=ogads-paclients6googlecom entropy=4.004
+DNS Packet: time=2025-09-03 11:28:01.645188584 src=103.8.46.5:53 dst=14.194.176.204:48759 qtype=28 rcode=NOERROR(0) sublen=29 domain=ogads-paclients6googlecom entropy=4.004
+DNS Packet: time=2025-09-03 11:28:01.647308134 src=103.8.46.5:53 dst=14.194.176.204:42248 qtype=65 rcode=NOERROR(0) sublen=29 domain=ogads-paclients6googlecom entropy=4.004
+DNS Packet: time=2025-09-03 11:28:01.648523736 src=103.8.46.5:53 dst=14.194.176.204:45127 qtype=65 rcode=NOERROR(0) sublen=20 domain=accountsgooglecom entropy=3.584
+DNS Packet: time=2025-09-03 11:28:01.651125510 src=103.8.46.5:53 dst=14.194.176.204:34231 qtype=65 rcode=NOERROR(0) sublen=16 domain=wwwgstaticcom entropy=3.328
+DNS Packet: time=2025-09-03 11:28:01.836332876 src=103.8.46.5:53 dst=14.194.176.204:44865 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:01.908264094 src=103.8.46.5:53 dst=14.194.176.204:44865 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:02.351492666 src=103.8.46.5:53 dst=14.194.176.204:51202 qtype=65 rcode=NOERROR(0) sublen=19 domain=www
+crazygamescom entropy=3.577
+DNS Packet: time=2025-09-03 11:28:02.352855599 src=103.8.46.5:53 dst=14.194.176.204:41200 qtype=28 rcode=NOERROR(0) sublen=19 domain=www
+crazygamescom entropy=3.577
+DNS Packet: time=2025-09-03 11:28:02.353191417 src=103.8.46.5:53 dst=14.194.176.204:40776 qtype=1 rcode=NOERROR(0) sublen=19 domain=www
+crazygamescom entropy=3.577
+DNS Packet: time=2025-09-03 11:28:02.635215742 src=103.8.46.5:53 dst=14.194.176.204:51199 qtype=65 rcode=NOERROR(0) sublen=16 domain=playgooglecom entropy=3.453
+DNS Packet: time=2025-09-03 11:28:02.635225934 src=103.8.46.5:53 dst=14.194.176.204:39652 qtype=28 rcode=NOERROR(0) sublen=16 domain=playgooglecom entropy=3.453
+DNS Packet: time=2025-09-03 11:28:02.635692716 src=103.8.46.5:53 dst=14.194.176.204:37925 qtype=1 rcode=NOERROR(0) sublen=16 domain=playgooglecom entropy=3.453
+DNS Packet: time=2025-09-03 11:28:02.673493499 src=103.8.46.5:53 dst=14.194.176.204:38351 qtype=65 rcode=NOERROR(0) sublen=20 domain=imgs
+crazygamescom entropy=3.684
+DNS Packet: time=2025-09-03 11:28:02.679207465 src=103.8.46.5:53 dst=14.194.176.204:35854 qtype=28 rcode=NOERROR(0) sublen=20 domain=imgs
+crazygamescom entropy=3.684
+DNS Packet: time=2025-09-03 11:28:02.696606397 src=103.8.46.5:53 dst=14.194.176.204:32911 qtype=28 rcode=NOERROR(0) sublen=22 domain=builds
+crazygamescom entropy=4.096
+DNS Packet: time=2025-09-03 11:28:02.702027041 src=103.8.46.5:53 dst=14.194.176.204:52547 qtype=1 rcode=NOERROR(0) sublen=22 domain=builds
+crazygamescom entropy=4.096
+DNS Packet: time=2025-09-03 11:28:02.703480480 src=103.8.46.5:53 dst=14.194.176.204:43360 qtype=65 rcode=NOERROR(0) sublen=22 domain=builds
+crazygamescom entropy=4.096
+DNS Packet: time=2025-09-03 11:28:02.703490745 src=103.8.46.5:53 dst=14.194.176.204:59317 qtype=1 rcode=NOERROR(0) sublen=21 domain=cdnprivacy-mgmtcom entropy=3.844
+DNS Packet: time=2025-09-03 11:28:02.703493122 src=103.8.46.5:53 dst=14.194.176.204:59018 qtype=1 rcode=NOERROR(0) sublen=20 domain=imgs
+crazygamescom entropy=3.684
+DNS Packet: time=2025-09-03 11:28:02.703649975 src=103.8.46.5:53 dst=14.194.176.204:50463 qtype=65 rcode=NOERROR(0) sublen=21 domain=cdnprivacy-mgmtcom entropy=3.844
+DNS Packet: time=2025-09-03 11:28:02.706324747 src=103.8.46.5:53 dst=14.194.176.204:39469 qtype=28 rcode=NOERROR(0) sublen=21 domain=cdnprivacy-mgmtcom entropy=3.844
+DNS Packet: time=2025-09-03 11:28:02.835046024 src=103.8.46.5:53 dst=14.194.176.204:47789 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:02.906242648 src=103.8.46.5:53 dst=14.194.176.204:47789 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:03.304496013 src=103.8.46.5:53 dst=14.194.176.204:38682 qtype=1 rcode=NOERROR(0) sublen=28 domain=o187844ingestussentryio entropy=3.995
+DNS Packet: time=2025-09-03 11:28:03.304509838 src=103.8.46.5:53 dst=14.194.176.204:39337 qtype=65 rcode=NOERROR(0) sublen=28 domain=o187844ingestussentryio entropy=3.995
+DNS Packet: time=2025-09-03 11:28:03.325556762 src=103.8.46.5:53 dst=14.194.176.204:42712 qtype=28 rcode=NOERROR(0) sublen=28 domain=o187844ingestussentryio entropy=3.995
+DNS Packet: time=2025-09-03 11:28:03.463898438 src=103.8.46.5:53 dst=14.194.176.204:52933 qtype=28 rcode=NOERROR(0) sublen=25 domain=wwwgoogletagmanagercom entropy=3.513
+DNS Packet: time=2025-09-03 11:28:03.464658729 src=103.8.46.5:53 dst=14.194.176.204:40733 qtype=1 rcode=NOERROR(0) sublen=25 domain=wwwgoogletagmanagercom entropy=3.513
+DNS Packet: time=2025-09-03 11:28:03.464793837 src=103.8.46.5:53 dst=14.194.176.204:54467 qtype=65 rcode=NOERROR(0) sublen=25 domain=wwwgoogletagmanagercom entropy=3.513
+DNS Packet: time=2025-09-03 11:28:03.466579183 src=103.8.46.5:53 dst=14.194.176.204:43344 qtype=65 rcode=NOERROR(0) sublen=19 domain=api
+crazygamescom entropy=3.682
+DNS Packet: time=2025-09-03 11:28:03.466588113 src=103.8.46.5:53 dst=14.194.176.204:58165 qtype=28 rcode=NOERROR(0) sublen=21 domain=model
+crazygamescom entropy=3.785
+DNS Packet: time=2025-09-03 11:28:03.466928772 src=103.8.46.5:53 dst=14.194.176.204:54159 qtype=1 rcode=NOERROR(0) sublen=21 domain=model
+crazygamescom entropy=3.785
+DNS Packet: time=2025-09-03 11:28:03.470837876 src=103.8.46.5:53 dst=14.194.176.204:58590 qtype=1 rcode=NOERROR(0) sublen=19 domain=api
+crazygamescom entropy=3.682
+DNS Packet: time=2025-09-03 11:28:03.472306209 src=103.8.46.5:53 dst=14.194.176.204:41663 qtype=65 rcode=NOERROR(0) sublen=21 domain=model
+crazygamescom entropy=3.785
+DNS Packet: time=2025-09-03 11:28:03.488170355 src=103.8.46.5:53 dst=14.194.176.204:37318 qtype=28 rcode=NOERROR(0) sublen=19 domain=api
+crazygamescom entropy=3.682
+DNS Packet: time=2025-09-03 11:28:03.607506383 src=103.8.46.5:53 dst=14.194.176.204:47795 qtype=28 rcode=NOERROR(0) sublen=13 domain=wwwcnetcom entropy=3.027
+DNS Packet: time=2025-09-03 11:28:03.607521654 src=103.8.46.5:53 dst=14.194.176.204:54864 qtype=1 rcode=NOERROR(0) sublen=13 domain=wwwcnetcom entropy=3.027
+DNS Packet: time=2025-09-03 11:28:03.608273802 src=103.8.46.5:53 dst=14.194.176.204:36650 qtype=65 rcode=NOERROR(0) sublen=13 domain=wwwcnetcom entropy=3.027
+DNS Packet: time=2025-09-03 11:28:03.610328081 src=103.8.46.5:53 dst=14.194.176.204:41585 qtype=65 rcode=NOERROR(0) sublen=20 domain=theconversationcom entropy=3.684
+DNS Packet: time=2025-09-03 11:28:03.680437721 src=103.8.46.5:53 dst=14.194.176.204:47620 qtype=65 rcode=NOERROR(0) sublen=24 domain=nsniglobalfastlynet entropy=3.772
+DNS Packet: time=2025-09-03 11:28:03.835334787 src=103.8.46.5:53 dst=14.194.176.204:42653 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:03.902708737 src=103.8.46.5:53 dst=14.194.176.204:42653 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:03.903911240 src=103.8.46.5:53 dst=14.194.176.204:41967 qtype=1 rcode=NOERROR(0) sublen=26 domain=
+userportal
+crazygamescom entropy=3.873
+DNS Packet: time=2025-09-03 11:28:03.908130953 src=103.8.46.5:53 dst=14.194.176.204:46879 qtype=28 rcode=NOERROR(0) sublen=26 domain=
+userportal
+crazygamescom entropy=3.873
+DNS Packet: time=2025-09-03 11:28:03.908542501 src=103.8.46.5:53 dst=14.194.176.204:41356 qtype=65 rcode=NOERROR(0) sublen=26 domain=
+userportal
+crazygamescom entropy=3.873
+DNS Packet: time=2025-09-03 11:28:04.021538946 src=103.8.46.5:53 dst=14.194.176.204:41064 qtype=28 rcode=NOERROR(0) sublen=28 domain=	googleadsgdoubleclicknet entropy=3.985
+DNS Packet: time=2025-09-03 11:28:04.026356052 src=103.8.46.5:53 dst=14.194.176.204:60784 qtype=1 rcode=NOERROR(0) sublen=28 domain=	googleadsgdoubleclicknet entropy=3.985
+DNS Packet: time=2025-09-03 11:28:04.221890192 src=103.8.46.5:53 dst=14.194.176.204:34353 qtype=28 rcode=NOERROR(0) sublen=22 domain=videos
+crazygamescom entropy=3.914
+DNS Packet: time=2025-09-03 11:28:04.222093871 src=103.8.46.5:53 dst=14.194.176.204:49994 qtype=1 rcode=NOERROR(0) sublen=22 domain=videos
+crazygamescom entropy=3.914
+DNS Packet: time=2025-09-03 11:28:04.225519931 src=103.8.46.5:53 dst=14.194.176.204:56252 qtype=65 rcode=NOERROR(0) sublen=22 domain=videos
+crazygamescom entropy=3.914
+DNS Packet: time=2025-09-03 11:28:04.451045916 src=103.8.46.5:53 dst=14.194.176.204:50555 qtype=28 rcode=NOERROR(0) sublen=21 domain=	analyticsgooglecom entropy=3.785
+DNS Packet: time=2025-09-03 11:28:04.451470264 src=103.8.46.5:53 dst=14.194.176.204:37621 qtype=1 rcode=NOERROR(0) sublen=24 domain=statsgdoubleclicknet entropy=4.054
+DNS Packet: time=2025-09-03 11:28:04.452797721 src=103.8.46.5:53 dst=14.194.176.204:55963 qtype=65 rcode=NOERROR(0) sublen=24 domain=statsgdoubleclicknet entropy=4.054
+DNS Packet: time=2025-09-03 11:28:04.454460355 src=103.8.46.5:53 dst=14.194.176.204:35091 qtype=28 rcode=NOERROR(0) sublen=17 domain=wwwgooglecoin entropy=3.293
+DNS Packet: time=2025-09-03 11:28:04.455140109 src=103.8.46.5:53 dst=14.194.176.204:53566 qtype=65 rcode=NOERROR(0) sublen=17 domain=wwwgooglecoin entropy=3.293
+DNS Packet: time=2025-09-03 11:28:04.455249622 src=103.8.46.5:53 dst=14.194.176.204:35534 qtype=65 rcode=NOERROR(0) sublen=21 domain=	analyticsgooglecom entropy=3.785
+DNS Packet: time=2025-09-03 11:28:04.455866303 src=103.8.46.5:53 dst=14.194.176.204:48796 qtype=1 rcode=NOERROR(0) sublen=21 domain=	analyticsgooglecom entropy=3.785
+DNS Packet: time=2025-09-03 11:28:04.457093335 src=103.8.46.5:53 dst=14.194.176.204:54115 qtype=28 rcode=NOERROR(0) sublen=24 domain=statsgdoubleclicknet entropy=4.054
+DNS Packet: time=2025-09-03 11:28:04.459273832 src=103.8.46.5:53 dst=14.194.176.204:60163 qtype=1 rcode=NOERROR(0) sublen=17 domain=wwwgooglecoin entropy=3.293
+DNS Packet: time=2025-09-03 11:28:04.521706783 src=103.8.46.5:53 dst=14.194.176.204:48538 qtype=65 rcode=NOERROR(0) sublen=25 domain=analytics-alvgooglecom entropy=3.913
+DNS Packet: time=2025-09-03 11:28:04.673820306 src=103.8.46.5:53 dst=14.194.176.204:42092 qtype=1 rcode=NOERROR(0) sublen=19 domain=cza
+crazygamescom entropy=3.432
+DNS Packet: time=2025-09-03 11:28:04.673833658 src=103.8.46.5:53 dst=14.194.176.204:35931 qtype=65 rcode=NOERROR(0) sublen=19 domain=cza
+crazygamescom entropy=3.432
+DNS Packet: time=2025-09-03 11:28:04.675293558 src=103.8.46.5:53 dst=14.194.176.204:59353 qtype=28 rcode=NOERROR(0) sublen=19 domain=cza
+crazygamescom entropy=3.432
+DNS Packet: time=2025-09-03 11:28:04.753502132 src=103.8.46.5:53 dst=14.194.176.204:58430 qtype=65 rcode=NOERROR(0) sublen=75 domain=.crazygames-prod-nlb-analytics-9f975bbd428d2caaelb	us-west-2	amazonawscom entropy=4.616
+DNS Packet: time=2025-09-03 11:28:04.837937608 src=103.8.46.5:53 dst=14.194.176.204:57197 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:04.909035280 src=103.8.46.5:53 dst=14.194.176.204:57197 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:05.632546522 src=103.8.46.5:53 dst=14.194.176.204:44627 qtype=28 rcode=NOERROR(0) sublen=28 domain=timesofindia
+indiatimescom entropy=3.584
+DNS Packet: time=2025-09-03 11:28:05.642520380 src=103.8.46.5:53 dst=14.194.176.204:49382 qtype=1 rcode=NOERROR(0) sublen=28 domain=timesofindia
+indiatimescom entropy=3.584
+DNS Packet: time=2025-09-03 11:28:05.642532619 src=103.8.46.5:53 dst=14.194.176.204:33297 qtype=65 rcode=NOERROR(0) sublen=28 domain=timesofindia
+indiatimescom entropy=3.584
+DNS Packet: time=2025-09-03 11:28:05.642535707 src=103.8.46.5:53 dst=14.194.176.204:37355 qtype=65 rcode=NOERROR(0) sublen=12 domain=wwwnprorg entropy=2.626
+DNS Packet: time=2025-09-03 11:28:05.642537032 src=103.8.46.5:53 dst=14.194.176.204:45289 qtype=1 rcode=NOERROR(0) sublen=12 domain=wwwnprorg entropy=2.626
+DNS Packet: time=2025-09-03 11:28:05.642537953 src=103.8.46.5:53 dst=14.194.176.204:42873 qtype=28 rcode=NOERROR(0) sublen=12 domain=wwwnprorg entropy=2.626
+DNS Packet: time=2025-09-03 11:28:05.710033859 src=103.8.46.5:53 dst=14.194.176.204:42314 qtype=65 rcode=NOERROR(0) sublen=28 domain=e103193dsca
+akamaiedgenet entropy=4.022
+DNS Packet: time=2025-09-03 11:28:05.714429217 src=103.8.46.5:53 dst=14.194.176.204:51357 qtype=65 rcode=NOERROR(0) sublen=28 domain=e180620dscj
+akamaiedgenet entropy=4.209
+DNS Packet: time=2025-09-03 11:28:05.839772324 src=103.8.46.5:53 dst=14.194.176.204:46400 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:05.911059349 src=103.8.46.5:53 dst=14.194.176.204:46400 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:06.509738483 src=103.8.46.5:53 dst=14.194.176.204:32938 qtype=28 rcode=NOERROR(0) sublen=23 domain=storage
+googleapiscom entropy=3.708
+DNS Packet: time=2025-09-03 11:28:06.509823128 src=103.8.46.5:53 dst=14.194.176.204:54183 qtype=1 rcode=NOERROR(0) sublen=23 domain=storage
+googleapiscom entropy=3.708
+DNS Packet: time=2025-09-03 11:28:06.514416883 src=103.8.46.5:53 dst=14.194.176.204:43041 qtype=65 rcode=NOERROR(0) sublen=23 domain=storage
+googleapiscom entropy=3.708
+DNS Packet: time=2025-09-03 11:28:06.841798970 src=103.8.46.5:53 dst=14.194.176.204:41827 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:06.913510748 src=103.8.46.5:53 dst=14.194.176.204:41827 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:07.264097221 src=103.8.46.5:53 dst=14.194.176.204:41852 qtype=65 rcode=NOERROR(0) sublen=17 domain=cdnjsdelivrnet entropy=3.617
+DNS Packet: time=2025-09-03 11:28:07.264142190 src=103.8.46.5:53 dst=14.194.176.204:40293 qtype=1 rcode=NOERROR(0) sublen=17 domain=cdnjsdelivrnet entropy=3.617
+DNS Packet: time=2025-09-03 11:28:07.268755221 src=103.8.46.5:53 dst=14.194.176.204:51056 qtype=28 rcode=NOERROR(0) sublen=17 domain=cdnjsdelivrnet entropy=3.617
+DNS Packet: time=2025-09-03 11:28:07.331069301 src=103.8.46.5:53 dst=14.194.176.204:37258 qtype=65 rcode=NOERROR(0) sublen=24 domain=jsdelivrmapfastlynet entropy=4.085
+DNS Packet: time=2025-09-03 11:28:07.547692785 src=103.8.46.5:53 dst=14.194.176.204:34413 qtype=1 rcode=NOERROR(0) sublen=21 domain=files
+crazygamescom entropy=3.916
+DNS Packet: time=2025-09-03 11:28:07.565437548 src=103.8.46.5:53 dst=14.194.176.204:55867 qtype=28 rcode=NOERROR(0) sublen=21 domain=files
+crazygamescom entropy=3.916
+DNS Packet: time=2025-09-03 11:28:07.569383708 src=103.8.46.5:53 dst=14.194.176.204:35142 qtype=65 rcode=NOERROR(0) sublen=21 domain=files
+crazygamescom entropy=3.916
+DNS Packet: time=2025-09-03 11:28:07.636807067 src=103.8.46.5:53 dst=14.194.176.204:36040 qtype=65 rcode=NOERROR(0) sublen=19 domain=www
+realsimplecom entropy=3.577
+DNS Packet: time=2025-09-03 11:28:07.637098560 src=103.8.46.5:53 dst=14.194.176.204:57645 qtype=28 rcode=NOERROR(0) sublen=19 domain=www
+realsimplecom entropy=3.577
+DNS Packet: time=2025-09-03 11:28:07.641070342 src=103.8.46.5:53 dst=14.194.176.204:41157 qtype=1 rcode=NOERROR(0) sublen=19 domain=www
+realsimplecom entropy=3.577
+DNS Packet: time=2025-09-03 11:28:07.841374242 src=103.8.46.5:53 dst=14.194.176.204:53508 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:07.912434644 src=103.8.46.5:53 dst=14.194.176.204:53508 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:08.840077998 src=103.8.46.5:53 dst=14.194.176.204:49226 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:08.907740449 src=103.8.46.5:53 dst=14.194.176.204:49226 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:09.643572206 src=103.8.46.5:53 dst=14.194.176.204:60228 qtype=65 rcode=NOERROR(0) sublen=28 domain=wwwarchitecturaldigestcom entropy=3.941
+DNS Packet: time=2025-09-03 11:28:09.648060029 src=103.8.46.5:53 dst=14.194.176.204:47400 qtype=1 rcode=NOERROR(0) sublen=28 domain=wwwarchitecturaldigestcom entropy=3.941
+DNS Packet: time=2025-09-03 11:28:09.648854651 src=103.8.46.5:53 dst=14.194.176.204:42954 qtype=28 rcode=NOERROR(0) sublen=28 domain=wwwarchitecturaldigestcom entropy=3.941
+DNS Packet: time=2025-09-03 11:28:09.844039348 src=103.8.46.5:53 dst=14.194.176.204:56703 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:09.914504496 src=103.8.46.5:53 dst=14.194.176.204:56703 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:10.845540467 src=103.8.46.5:53 dst=14.194.176.204:59597 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:10.916798173 src=103.8.46.5:53 dst=14.194.176.204:59597 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:11.665038029 src=103.8.46.5:53 dst=14.194.176.204:60773 qtype=65 rcode=NOERROR(0) sublen=13 domain=wwwcnbccom entropy=2.815
+DNS Packet: time=2025-09-03 11:28:11.668865594 src=103.8.46.5:53 dst=14.194.176.204:39957 qtype=28 rcode=NOERROR(0) sublen=13 domain=wwwcnbccom entropy=2.815
+DNS Packet: time=2025-09-03 11:28:11.669488652 src=103.8.46.5:53 dst=14.194.176.204:42081 qtype=1 rcode=NOERROR(0) sublen=13 domain=wwwcnbccom entropy=2.815
+DNS Packet: time=2025-09-03 11:28:11.670169980 src=103.8.46.5:53 dst=14.194.176.204:42232 qtype=65 rcode=NOERROR(0) sublen=24 domain=wwwbusinessinsidercom entropy=3.605
+DNS Packet: time=2025-09-03 11:28:11.671018897 src=103.8.46.5:53 dst=14.194.176.204:45134 qtype=1 rcode=NOERROR(0) sublen=24 domain=wwwbusinessinsidercom entropy=3.605
+DNS Packet: time=2025-09-03 11:28:11.671919366 src=103.8.46.5:53 dst=14.194.176.204:39673 qtype=28 rcode=NOERROR(0) sublen=24 domain=wwwbusinessinsidercom entropy=3.605
+DNS Packet: time=2025-09-03 11:28:11.737418286 src=103.8.46.5:53 dst=14.194.176.204:60444 qtype=65 rcode=NOERROR(0) sublen=25 domain=e3365e12
+akamaiedgenet entropy=3.829
+DNS Packet: time=2025-09-03 11:28:11.741004309 src=103.8.46.5:53 dst=14.194.176.204:34485 qtype=65 rcode=NOERROR(0) sublen=27 domain=fsharedglobalfastlynet entropy=3.930
+DNS Packet: time=2025-09-03 11:28:11.843338185 src=103.8.46.5:53 dst=14.194.176.204:60670 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:11.909484753 src=103.8.46.5:53 dst=14.194.176.204:60670 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:12.845525137 src=103.8.46.5:53 dst=14.194.176.204:35717 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:12.912648415 src=103.8.46.5:53 dst=14.194.176.204:35717 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:13.764091141 src=103.8.46.5:53 dst=14.194.176.204:56149 qtype=1 rcode=NOERROR(0) sublen=21 domain=wwwoutlookmoneycom entropy=3.423
+DNS Packet: time=2025-09-03 11:28:13.768021730 src=103.8.46.5:53 dst=14.194.176.204:50520 qtype=65 rcode=NOERROR(0) sublen=21 domain=wwwoutlookmoneycom entropy=3.423
+DNS Packet: time=2025-09-03 11:28:13.768276064 src=103.8.46.5:53 dst=14.194.176.204:55748 qtype=28 rcode=NOERROR(0) sublen=21 domain=wwwoutlookmoneycom entropy=3.423
+DNS Packet: time=2025-09-03 11:28:13.769091294 src=103.8.46.5:53 dst=14.194.176.204:37253 qtype=65 rcode=NOERROR(0) sublen=16 domain=wwwnytimescom entropy=3.453
+DNS Packet: time=2025-09-03 11:28:13.769430499 src=103.8.46.5:53 dst=14.194.176.204:42228 qtype=28 rcode=NOERROR(0) sublen=16 domain=wwwnytimescom entropy=3.453
+DNS Packet: time=2025-09-03 11:28:13.771265252 src=103.8.46.5:53 dst=14.194.176.204:60659 qtype=1 rcode=NOERROR(0) sublen=16 domain=wwwnytimescom entropy=3.453
+DNS Packet: time=2025-09-03 11:28:13.835480435 src=103.8.46.5:53 dst=14.194.176.204:34390 qtype=65 rcode=NOERROR(0) sublen=23 domain=nytimesmapfastlynet entropy=3.708
+DNS Packet: time=2025-09-03 11:28:13.849863773 src=103.8.46.5:53 dst=14.194.176.204:33027 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:13.920798417 src=103.8.46.5:53 dst=14.194.176.204:33027 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:14.851652971 src=103.8.46.5:53 dst=14.194.176.204:35682 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:14.922825528 src=103.8.46.5:53 dst=14.194.176.204:35682 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:15.781174978 src=103.8.46.5:53 dst=14.194.176.204:49622 qtype=28 rcode=NOERROR(0) sublen=15 domain=wwwbustlecom entropy=3.457
+DNS Packet: time=2025-09-03 11:28:15.785103105 src=103.8.46.5:53 dst=14.194.176.204:48712 qtype=28 rcode=NOERROR(0) sublen=22 domain=wwwmarthastewartcom entropy=3.391
+DNS Packet: time=2025-09-03 11:28:15.785678944 src=103.8.46.5:53 dst=14.194.176.204:38975 qtype=1 rcode=NOERROR(0) sublen=22 domain=wwwmarthastewartcom entropy=3.391
+DNS Packet: time=2025-09-03 11:28:15.785685848 src=103.8.46.5:53 dst=14.194.176.204:47394 qtype=65 rcode=NOERROR(0) sublen=22 domain=wwwmarthastewartcom entropy=3.391
+DNS Packet: time=2025-09-03 11:28:15.785687478 src=103.8.46.5:53 dst=14.194.176.204:47301 qtype=1 rcode=NOERROR(0) sublen=15 domain=wwwbustlecom entropy=3.457
+DNS Packet: time=2025-09-03 11:28:15.785732217 src=103.8.46.5:53 dst=14.194.176.204:45706 qtype=65 rcode=NOERROR(0) sublen=15 domain=wwwbustlecom entropy=3.457
+DNS Packet: time=2025-09-03 11:28:15.849229682 src=103.8.46.5:53 dst=14.194.176.204:46779 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:15.915768425 src=103.8.46.5:53 dst=14.194.176.204:46779 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:16.851184298 src=103.8.46.5:53 dst=14.194.176.204:53820 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
+DNS Packet: time=2025-09-03 11:28:16.917562028 src=103.8.46.5:53 dst=14.194.176.204:53820 qtype=12 rcode=NXDOMAIN(3) sublen=26 domain=827320720in-addrarpa entropy=3.844
